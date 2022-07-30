@@ -1,0 +1,82 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*----ENCABEZADO----*/
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    position: relative;
+    min-height: 40px;
+    padding: 2rem 3rem;
+}
+
+#logo {
+    position: absolute;
+    width: 100px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin-right: 20px;
+    border-radius: 50px;
+}
+
+#garagecompleto {
+    font-style: italic;
+    display: flex;
+    position: absolute;
+    margin: 0;
+    left: 17%;
+}
+
+#lupaBuscador {
+    display:block;
+    position:absolute;
+    left: 450px;
+}
+
+#buscador {
+    border-radius: 30px;
+}
+
+#buscador:hover {
+    box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3);
+}
+
+/*----BODY----*/
+
+body {
+    margin: 0;
+}
+
+#botonesIndice {
+    list-style: none;
+}
+
+/*----PIE DE PÁGINA----*/
+
+footer {
+    background-color: rgb(77, 74, 74);
+    padding: 2rem;
+}
+
+#copyright {
+    text-align: right;
+}
+
+#instagram {
+    text-decoration: none;
+}
+
+#contactanos {
+    text-decoration: none;
+}
+
+@media (max-width:700px){
+    header {
+        flex-direction: column;
+    }
+}
