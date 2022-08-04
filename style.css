@@ -33,7 +33,6 @@ header {
 }
 
 #lupaBuscador {
-    display:block;
     position:absolute;
     left: 750px;
 }
@@ -65,7 +64,7 @@ body {
 }
 
 .indice {
-    display: block;
+    display: inline;
     float: left;
     padding: 10px 25px;
     cursor: pointer;
@@ -73,16 +72,17 @@ body {
 
 .indice a {
     text-decoration: none;
+    color: #fff;
+}
+
+.indice a:visited {
+    color: #fff;
 }
 
 .indice:hover {
     background-color: #fff;
     color: black;
     transition: all 0.3s;
-}
-
-.indice a:visited {
-    color: #fff;
 }
 
 section h1 {
@@ -106,7 +106,7 @@ section h2 {
 
 .noticias img {
     position: absolute;
-    display: block;
+    display: inline;
     padding: 1rem;
     width: 400px;
     height: 270px;
@@ -122,12 +122,28 @@ section h2 {
     display: block;
 }
 
+#irAlComienzo {
+    position:fixed;
+    top: 90%;
+    left: 95%;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color:#fff;
+    border-radius: 50px;
+    cursor:pointer;
+}
+
+#irAlComienzo i {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+
 /*----PIE DE PÁGINA----*/
 
 footer {
     background-color: rgb(77, 74, 74);
-    position: relative;
-    top: 410px;
     padding: 2rem;
 }
 
@@ -165,6 +181,40 @@ footer {
 
 #contactanos:active {
     color: darkcyan;
+}
+
+/*                                   MARCAS                                           */
+
+.marcas {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+    margin: 50px 70px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.marcas:hover {
+    box-shadow: 0 0.1rem 1rem rgba(0,0,0,0.3);
+    transition: all 0.4s;
+}
+
+.marcas img {
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.marcas div {
+    position:absolute;
+    background-color: #fff;
+    padding: 5px;
+    top:85%;
+    left:2%;
+    z-index: 1;
+    font-size: 20px;
 }
 
 /* @media (max-width:700px){
