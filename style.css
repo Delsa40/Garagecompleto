@@ -315,6 +315,11 @@ footer {
     height: 100%;
 }
 
+#segunda {
+    left: 400px;
+    z-index: 10;
+}
+
 #contenedorDeFoto:hover div {
     visibility: visible;
 }
@@ -340,11 +345,51 @@ footer {
 .infoDelAuto p {
     position: absolute;
     text-align: justify;
-    left: 430px;
-    padding: 1rem 0;
+    left: 415px;
+    padding: 1rem 1rem;
     padding-right: 2rem;
     margin: 0;
     display: block;
+    z-index: 20;
+    background-color: #fff;
+}
+
+/*----------------------------JUEGOS----------------------------*/
+
+#juegos {
+    text-align: center;
+}
+
+.contenedorDeJuego {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+    margin: 50px 70px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.contenedorDeJuego:hover {
+    box-shadow: 0 0.1rem 1rem rgba(0,0,0,0.3);
+    transition: all 0.4s;
+}
+
+.contenedorDeJuego img {
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.contenedorDeJuego div {
+    position:absolute;
+    background-color: #fff;
+    padding: 5px;
+    top:85%;
+    left:2%;
+    z-index: 1;
+    font-size: 20px;
 }
 
 /* @media (max-width:700px){
