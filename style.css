@@ -392,6 +392,30 @@ footer {
     font-size: 20px;
 }
 
+.linkAJuego {
+    text-decoration: none;
+    color: black;
+}
+
+.linkAJuego:visited {
+    color: black;
+}
+
+/*----------------------------ACERCA DE----------------------------*/
+
+section > p {
+    text-align: justify;
+    padding: 1rem;
+}
+
+/*----------------------------¿QUE AUTO ES?----------------------------*/
+
+
+
+/*----------------------------IMPOSTOR----------------------------*/
+
+
+
 /* @media (max-width:700px){
     header {
         flex-direction: column;
