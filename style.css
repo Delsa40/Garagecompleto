@@ -291,6 +291,7 @@ footer {
 }
 
 .infoDelAuto {
+    position: relative;
     background-color: #fff;
     min-height: 500px;
     margin: 3rem 1rem;
@@ -302,7 +303,7 @@ footer {
 }
 
 #contenedorDeFoto {
-    position: absolute;
+    position: relative;
     display: inline-block;
     padding: 1rem;
     width: 350px;
@@ -310,7 +311,7 @@ footer {
 }
 
 #contenedorDeFoto img {
-    position: absolute;
+    position:absolute;
     width: 100%;
     height: 100%;
 }
@@ -345,11 +346,10 @@ footer {
 .infoDelAuto p {
     position: absolute;
     text-align: justify;
-    left: 415px;
+    display:inline-block;
+    left: 400px;
     padding: 1rem 1rem;
-    padding-right: 2rem;
     margin: 0;
-    display: inline-block;
     z-index: 20;
     background-color: #fff;
 }
@@ -408,7 +408,7 @@ section > p {
     padding: 1rem;
 }
 
-/*----------------------------¿QUE AUTO ES?----------------------------*/
+/*----------------------------¿QUE AUTO ES? E IMPOSTOR----------------------------*/
 
 .quiz {
     position: relative;
@@ -454,9 +454,9 @@ section > p {
     margin: 10px;
 }
 
-/*----------------------------IMPOSTOR----------------------------*/
-
-
+/* .botonOpcion:checked .resultados {
+    z-index: 20;
+} */
 
 /* @media (max-width:700px){
     header {
