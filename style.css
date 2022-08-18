@@ -316,43 +316,61 @@ footer {
     height: 100%;
 }
 
+#contenedorDeFoto:hover #segunda {
+    left: 16px;
+    transition: all 0.5s ease;
+}
+
 #segunda {
     left: 400px;
     z-index: 10;
 }
 
-#contenedorDeFoto:hover div {
-    visibility: visible;
-}
-
-.siguienteFoto {
-    visibility: hidden;
-    position: absolute;
-    top: 50%;
-    left: 93.7%;
-    width: 40px;
-    height: 40px;
-    background-color: rgb(82, 78, 78);
-    color: #fff;
-    cursor: pointer;
-}
-
-.siguienteFoto div {
-    position: absolute;
-    top: 25%;
-    left: 30%;
-}
-
-.infoDelAuto p {
+#p1 {
     position: absolute;
     text-align: justify;
     display:inline-block;
     left: 400px;
     padding: 1rem 1rem;
     margin: 0;
+    height: 290px;
     z-index: 20;
     background-color: #fff;
 }
+
+#p2 {
+    text-align: justify;
+    display: block;
+    padding: 1rem 1rem;
+    margin: 0;
+}
+
+/* OPCION DE BOTON DE SIGUIENTE EN LA FOTO: */
+
+/* <button id="siguienteFoto"><div><i class="fa-solid fa-arrow-right"></i></div></button> */
+
+/* .segunda.clickeado {
+    left: 16px;
+}  */
+
+/* #siguienteFoto {
+    visibility: hidden;
+    position: absolute;
+    top: 50%;
+    left: 93.7%;
+    width: 40px;
+    height: 40px;
+    border: 0;
+    background-color: rgb(82, 78, 78);
+    color: #fff;
+    cursor: pointer;
+}
+
+#siguienteFoto div {
+    position: absolute;
+    top: 32%;
+    left: 34%;
+} */
 
 /*----------------------------JUEGOS----------------------------*/
 
@@ -447,6 +465,10 @@ section > p {
     width: 100%;
     z-index: 5;
     background-color: #fff;
+}
+
+.resultados.respuesta {
+    z-index: 20;
 }
 
 .resultados ul li {
