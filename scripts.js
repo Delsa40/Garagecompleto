@@ -1,7 +1,7 @@
 //-----------------------------------PARA CADA MODELO:
 // DECLARO VARIABLES
 
-var segunda_foto = document.getElementsByClassName("segunda");
+/* var segunda_foto = document.getElementsByClassName("segunda");
 var contador = 0;
 var siguiente_foto = document.getElementById("siguienteFoto");
 
@@ -22,12 +22,12 @@ function siguiente() {
 
 // LLAMO FUNCIONES
 
-siguiente_foto.addEventListener("click", siguiente);
+siguiente_foto.addEventListener("click", siguiente); */
 
 //-----------------------------------PARA LOS JUEGOS:
 //DECLARO VARIABLES
 
-var boton = document.getElementsByClassName("botonOpcion");
+/* var boton = document.getElementsByClassName("botonOpcion");
 var aux = 0;
 var lista_de_resultados = document.getElementsByClassName("resultados");
 
@@ -48,4 +48,4 @@ function mostrar() {
 
 //LLAMO FUNCIONES
 
-boton.addEventListener("click", mostrar);
+boton.addEventListener("click", mostrar()); */
