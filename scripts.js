@@ -1,22 +1,50 @@
+/* -----------------------------------Buscador interno--------------------------- */
+
+buscador = document.getElementById("buscador");
+listaBuscador = document.getElementById("listaBuscador");
+
+function buscador_interno(){
+
+    filter = buscador.value.toUpperCase();
+    a = listaBuscador.getElementsByTagName("a");
+
+    for (i = 0; i < a.length(); i++){
+        textValue = a.textContent || a.innerText;
+
+        if(textValue.toUpperCase().indexOf(filter) > -1){
+            a[i].style.display = "";
+            listaBuscador.style.display = "block";
+
+            if(buscador.value === ""){
+                listaBuscador.style.display = "none";
+            }
+        }else{
+            a[i].style.display = "none";
+        }
+    }
+}
+
+buscador.addEventListener("keyup", buscador_interno);
+
 //-----------------------------------PARA CADA MODELO:
 // DECLARO VARIABLES
 
-/* var segunda_foto = document.getElementsByClassName("segunda");
-var contador = 0;
-var siguiente_foto = document.getElementById("siguienteFoto");
+/* const segunda_foto = document.getElementsByClassName("segunda");
+let contador = 0;
+const siguiente_foto = document.getElementById("siguienteFoto");
 
 // FUNCIONES
 
 function siguiente() {
 
-    if(contador==0){
+    if(contador == 0){
 
         segunda_foto.classList.add("clickeado");
-        contador=1;
+        contador = 1;
     }
     else{
         segunda_foto.classList.remove("clickeado");
-        contador=0;
+        contador = 0;
     }
 }
 
