@@ -32,7 +32,20 @@ header {
     left: 120px;
 }
 
-#lupaBuscador {
+/* <nav id="lupaBuscador">
+            <label for="buscador"><i class="fa-solid fa-magnifying-glass"></i></label>
+            <input id="buscador" placeholder="Buscar marca" />
+            <ul id="listaBuscador">
+                <a class="a" href="Ford.html"><li class="marcaBuscador">Ford</li></a>
+                <a class="a" href="Lamborghini.html"><li class="marcaBuscador">Lamborghini</li></a>
+                <a class="a" href="Mercedes.html"><li class="marcaBuscador">Mercedes Benz</li></a>
+                <a class="a" href="Ferrari.html"><li class="marcaBuscador">Ferrari</li></a>
+                <a class="a" href="Subaru.html"><li class="marcaBuscador">Subaru</li></a>
+                <a class="a" href="Audi.html"><li class="marcaBuscador">Audi</li></a>
+            </ul>
+        </nav>  */
+
+/* #lupaBuscador {
     position:absolute;
     left: 750px;
 }
@@ -70,7 +83,7 @@ header {
 #listaBuscador a{
     text-decoration: none;
     color: black;
-}
+} */
 
 /*----------------------------BODY----------------------------*/
 
@@ -352,6 +365,7 @@ footer {
     padding: 1rem 1rem;
     margin: 0;
     height: 290px;
+    min-width: 400px;
     z-index: 20;
     background-color: #fff;
 }

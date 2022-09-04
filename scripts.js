@@ -1,6 +1,6 @@
 /* -----------------------------------Buscador interno--------------------------- */
 
-buscador = document.getElementById("buscador");
+/* buscador = document.getElementById("buscador");
 listaBuscador = document.getElementById("listaBuscador");
 
 function buscador_interno(){
@@ -22,9 +22,9 @@ function buscador_interno(){
             a[i].style.display = "none";
         }
     }
-}
+} */
 
-buscador.addEventListener("keyup", buscador_interno);
+/* buscador.addEventListener("keyup", buscador_interno); */
 
 //-----------------------------------PARA CADA MODELO:
 // DECLARO VARIABLES
