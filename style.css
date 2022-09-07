@@ -338,7 +338,7 @@ footer {
     position: relative;
     display: inline-block;
     padding: 1rem;
-    width: 350px;
+    width: 320px;
     height: 270px;
 }
 
@@ -358,11 +358,18 @@ footer {
     z-index: 10;
 }
 
+#tercera {
+    position: relative;
+    width: 350px;
+    height: 270px;
+    left: 35%;
+}
+
 #p1 {
     position: absolute;
     text-align: justify;
     display:inline-block;
-    left: 400px;
+    left: 370px;
     padding: 1rem 1rem;
     margin: 0;
     height: 290px;
