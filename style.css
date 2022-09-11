@@ -160,6 +160,8 @@ section h2 {
     padding: 1rem;
     padding-left: 0;
     margin: 0;
+    font-size: 20px;
+    line-height: 25px;
     display:inline-block;
 }
 
@@ -265,6 +267,10 @@ footer {
 
 .linkAMarca:visited {
     color: black;
+}
+
+#textoRarezas {
+    margin-bottom: 1rem;
 }
 
 /*----------------------------EN CADA MARCA----------------------------*/
@@ -380,8 +386,9 @@ footer {
 
 #p2 {
     text-align: justify;
+    font-size: 20px;
     display: block;
-    line-height: 20px;
+    line-height: 25px;
     padding: 1rem 1rem;
     margin: 0;
 }
@@ -464,7 +471,8 @@ footer {
 
 section > p {
     text-align: justify;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 25px;
     padding: 1rem;
 }
 
