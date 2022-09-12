@@ -333,6 +333,7 @@ footer {
     background-color: #fff;
     min-height: 500px;
     margin: 3rem 1rem;
+    margin-bottom: 1rem;
     margin-top: 5px;
     border: 1px;
     border-style:dashed;
@@ -391,6 +392,11 @@ footer {
     line-height: 25px;
     padding: 1rem 1rem;
     margin: 0;
+}
+
+#referencias{
+    margin-left: 20px;
+    margin-bottom: 15px;
 }
 
 /* OPCION DE BOTON DE SIGUIENTE EN LA FOTO: */
