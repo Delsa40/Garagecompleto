@@ -29,7 +29,7 @@ header {
     display: flex;
     position: absolute;
     margin: 0;
-    left: 120px;
+    left: 14%;
 }
 
 /* <nav id="lupaBuscador">
@@ -103,9 +103,12 @@ body {
 }
 
 .indice {
-    display: inline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     float: left;
-    padding: 10px 25px;
+    text-align: center;
+    padding: 10px 30px;
     cursor: pointer;
 }
 
@@ -145,24 +148,24 @@ section h2 {
     box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3);
 }
 
-.noticias img {
-    position: absolute;
-    display: inline;
-    padding: 1rem;
-    width: 400px;
-    height: 270px;
+.noticias div img {
+    padding: 1.5%;
+    width: 30%;
+}
+
+.Responsive{
+    display: none;
+    padding: 1.5%;
+    width: 30%;
 }
 
 .parrafoNoticia {
-    position: absolute;
     text-align: justify;
-    left: 430px;
     padding: 1rem;
-    padding-left: 0;
+    padding-top: 0;
     margin: 0;
     font-size: 20px;
     line-height: 25px;
-    display:inline-block;
 }
 
 #irAlComienzo {
@@ -620,3 +623,58 @@ section > p {
 /* .botonOpcion:checked .resultados {
     z-index: 20;
 } */
+
+@media (min-height: 300px) and (max-width:830px){
+    header{
+        min-height: 100px;
+    }
+    #logo{
+        width: 25%;
+    }
+    #garagecompleto{
+        left: 30%;
+    }
+    .indice{
+        height: 50px;
+        width: 17.5%;
+    }
+    #botonesIndice a{
+        font-size: 20px;
+    }
+    section h1{
+        margin-top: 120px;
+    }
+    .noticias{
+        min-height: 600px;
+    }
+    .noticias div img{
+        padding: 1.5%;
+        width: 97%;
+    }
+    .NoResponsive{
+        display: none;
+    }
+    .Responsive{
+        display: block;
+        padding: 1.5%;
+        width: 97%;
+    }
+    .parrafoNoticia{
+        left: 1%;
+        top: 280px
+    }
+    footer div, footer a{
+        font-size: 20px;
+    }
+    #irAlComienzo{
+        top: 85%;
+        left: 85%;
+        width: 10%;
+        height: 5%;
+    }
+    #copyright{
+        display: block;
+        text-align: left;
+        margin: 25px 0;
+    }
+}
