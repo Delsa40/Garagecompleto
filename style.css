@@ -624,9 +624,9 @@ section > p {
     z-index: 20;
 } */
 
-@media (min-height: 300px) and (max-width:830px){
+@media (min-height: 100px) and (max-width:830px){
     header{
-        min-height: 100px;
+        min-height: 50px;
     }
     #logo{
         width: 25%;
@@ -635,14 +635,11 @@ section > p {
         left: 30%;
     }
     .indice{
-        height: 50px;
+        height: 40px;
         width: 17.5%;
     }
     #botonesIndice a{
         font-size: 20px;
-    }
-    section h1{
-        margin-top: 120px;
     }
     .noticias{
         min-height: 600px;
@@ -676,5 +673,49 @@ section > p {
         display: block;
         text-align: left;
         margin: 25px 0;
+    }
+}
+@media (min-height: 100px) and (max-width:827px){
+    .indice{
+        width: 12.5%;
+    }
+}
+@media (min-height: 100px) and (max-width:730px){
+    .indice{
+        height: 25px;
+        width: 12.5%;
+        font-size: 16px;
+    }
+}
+@media (min-height: 100px) and (max-width:590px){
+    .indice{
+        height: 20px;
+        width: 12.5%;
+        font-size: 12px;
+    }
+}
+@media (min-height: 100px) and (max-width:500px){
+    #garagecompleto{
+        font-size: 25px;
+    }
+    .indice{
+        height: 20px;
+        padding: 2% 6%;
+        font-size: 12px;
+    }
+}
+@media (min-height: 100px) and (max-width:450px){
+    .indice{
+        height: 20px;
+        padding: 2% 5%;
+        font-size: 12px;
+    }
+}
+@media (min-height: 100px) and (max-width:350px){
+    header{
+        min-height: 30px;
+    }
+    #garagecompleto{
+        font-size: 18px;
     }
 }
