@@ -199,6 +199,7 @@ footer {
 
 #instagram {
     text-decoration: none;
+    color: cyan;
 }
 
 #instagram:visited {
@@ -215,6 +216,7 @@ footer {
 
 #contactanos {
     text-decoration: none;
+    color: cyan;
 }
 
 #contactanos:visited {
@@ -705,17 +707,20 @@ section > p {
     }
 }
 @media (min-height: 100px) and (max-width:450px){
+    header{
+        min-height: 15px;
+    }
     .indice{
         height: 20px;
         padding: 2% 5%;
         font-size: 12px;
     }
 }
-@media (min-height: 100px) and (max-width:350px){
-    header{
-        min-height: 30px;
-    }
+@media (min-height: 100px) and (max-width:350px){ 
     #garagecompleto{
         font-size: 18px;
+    }
+    section h1 {
+        font-size: 35px;
     }
 }
