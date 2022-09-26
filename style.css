@@ -373,13 +373,11 @@ footer {
 #tercera {
     position: relative;
     width: 350px;
-    height: 270px;
-    left: 35%;
+    left: 32%;
 }
 
 #p1 {
     position: absolute;
-    text-align: justify;
     display:inline-block;
     left: 370px;
     padding: 1rem 1rem;
@@ -638,19 +636,34 @@ section > p {
     .marcas{
         margin: 50px 5%;
     }
+    #p1{
+        display: block;
+        position: static;
+        margin-top: 15px;
+        min-width: 100px;
+        min-height: 290px;
+    }
+    #contenedorDeFoto{
+        width: 40%;
+    }
+    #contenedorDeFoto:hover #segunda{
+        left: 400px;
+    }
+    #tercera{
+        left:30%;
+    }
 }
 @media (min-height: 100px) and (max-width:830px){
     header{
-        min-height: 50px;
+        min-height: 40px;
     }
     #logo{
-        width: 25%;
+        width: 17%;
     }
     #garagecompleto{
         left: 30%;
     }
     .indice{
-        height: 40px;
         width: 17.5%;
     }
     #botonesIndice a{
@@ -713,6 +726,41 @@ section > p {
     .indice{
         width: 12.5%;
     }
+    .modelo{
+        margin: 0;
+        width: 99%;
+    }
+    #tercera{
+        left:27%;
+    }
+}
+@media (min-height: 100px) and (max-width:800px){
+    .indice{
+        height: 25px;
+    }
+    #contenedorDeFoto{
+        padding: 1%;
+        width: 96%;
+        min-height: 1200px;
+    }
+    #contenedorDeFoto img{
+        height: 50%;
+    }
+    #segunda{
+        left: 1%;
+        top: 630px;
+    }
+    #contenedorDeFoto:hover #segunda{
+        left: 1%;
+    }
+    .nombreModelo{
+        font-size: 35px;
+    }
+    #tercera{
+        position: static;
+        padding: 1%;
+        width: 98%;
+    }
 }
 @media (min-height: 100px) and (max-width:774px){
     .marcas{
@@ -722,9 +770,16 @@ section > p {
 }
 @media (min-height: 100px) and (max-width:730px){
     .indice{
-        height: 25px;
         width: 12.5%;
         font-size: 16px;
+    }
+}
+@media (min-height: 100px) and (max-width:620px){
+    #contenedorDeFoto{
+        min-height: 1000px;
+    }
+    #segunda{
+        top: 520px;
     }
 }
 @media (min-height: 100px) and (max-width:590px){
@@ -736,7 +791,21 @@ section > p {
         height: 200px;
     }
 }
+@media (min-height: 100px) and (max-width:520px){
+    #contenedorDeFoto{
+        min-height: 800px;
+    }
+    #segunda{
+        top: 420px;
+    }
+}
 @media (min-height: 100px) and (max-width:500px){
+    header{
+        min-height: 20px;
+    }
+    #logo{
+        width: 20%;
+    }
     #garagecompleto{
         font-size: 25px;
     }
@@ -758,13 +827,30 @@ section > p {
     .marcas{
         height: 150px;
     }
+    .modelo p{
+        font-size: 15px;
+    }
+    .nombreMarca{
+        font-size: 35px;
+    }
+    .nombreModelo{
+        font-size: 25px;
+    }
 }
 @media (min-height: 100px) and (max-width:450px){
     header{
         min-height: 15px;
     }
-    .indice{
-        padding: 2% 5%;
+}
+@media (min-height: 100px) and (max-width:400px){
+    .nombreMarca{
+        font-size: 25px;
+    }
+    #contenedorDeFoto{
+        min-height: 600px;
+    }
+    #segunda{
+        top: 320px;
     }
 }
 @media (min-height: 100px) and (max-width:350px){ 
@@ -788,5 +874,25 @@ section > p {
     }
     .marcas{
         height: 100px;
+    }
+    .modelo p{
+        margin: 20px 2%;
+    }
+    #contenedorDeFoto{
+        min-height: 500px;
+    }
+    #segunda{
+        top: 270px;
+    }
+}
+@media (min-height: 100px) and (max-width:280px){
+    #logo{
+        width: 30%;
+    }
+    #contenedorDeFoto{
+        min-height: 400px;
+    }
+    #segunda{
+        top: 220px;
     }
 }
