@@ -625,7 +625,20 @@ section > p {
 /* .botonOpcion:checked .resultados {
     z-index: 20;
 } */
-
+@media (min-height: 100px) and (max-width:910px){
+    .quiz{
+        margin: 50px 50px;
+    }
+    .quizImpostor{
+        margin: 50px 50px;
+    }
+    .contenedorDeJuego{
+        margin: 50px 50px;
+    }
+    .marcas{
+        margin: 50px 5%;
+    }
+}
 @media (min-height: 100px) and (max-width:830px){
     header{
         min-height: 50px;
@@ -676,10 +689,35 @@ section > p {
         text-align: left;
         margin: 25px 0;
     }
+    /* Juegos */
+    .quiz{
+        display:block;
+        margin: 50px 0;
+        width: 50%;
+        left: 25%;
+    }
+    .quizImpostor{
+        display:block;
+        margin: 50px 0;
+        width: 50%;
+        left: 25%;
+    }
+    .contenedorDeJuego{
+        display:block;
+        margin: 50px 0;
+        width: 50%;
+        left: 25%;
+    }
 }
 @media (min-height: 100px) and (max-width:827px){
     .indice{
         width: 12.5%;
+    }
+}
+@media (min-height: 100px) and (max-width:774px){
+    .marcas{
+        margin: 50px 3%;
+        width: 40%;
     }
 }
 @media (min-height: 100px) and (max-width:730px){
@@ -691,9 +729,11 @@ section > p {
 }
 @media (min-height: 100px) and (max-width:590px){
     .indice{
-        height: 20px;
         width: 12.5%;
         font-size: 12px;
+    }
+    .marcas{
+        height: 200px;
     }
 }
 @media (min-height: 100px) and (max-width:500px){
@@ -701,9 +741,22 @@ section > p {
         font-size: 25px;
     }
     .indice{
-        height: 20px;
         padding: 2% 6%;
-        font-size: 12px;
+    }
+    .quiz{
+        width: 70%;
+        left: 15%;
+    }
+    .quizImpostor{
+        width: 70%;
+        left: 15%;
+    }
+    .contenedorDeJuego{
+        width: 70%;
+        left: 15%;
+    }
+    .marcas{
+        height: 150px;
     }
 }
 @media (min-height: 100px) and (max-width:450px){
@@ -711,9 +764,7 @@ section > p {
         min-height: 15px;
     }
     .indice{
-        height: 20px;
         padding: 2% 5%;
-        font-size: 12px;
     }
 }
 @media (min-height: 100px) and (max-width:350px){ 
@@ -722,5 +773,20 @@ section > p {
     }
     section h1 {
         font-size: 35px;
+    }
+    .quiz{
+        width: 80%;
+        left: 10%;
+    }
+    .quizImpostor{
+        width: 80%;
+        left: 10%;
+    }
+    .contenedorDeJuego{
+        width: 80%;
+        left: 10%;
+    }
+    .marcas{
+        height: 100px;
     }
 }
