@@ -151,6 +151,7 @@ section h2 {
 .noticias div img {
     padding: 1.5%;
     width: 30%;
+    height: 300px;
 }
 
 .Responsive{
@@ -593,37 +594,12 @@ section > p {
 .quizImpostor:hover .respuestaImpostor {
     visibility: visible;
 }
+/*----------------------------RESPONSIVE----------------------------*/
 
-/* .cadaOpcion {
-    margin: 10px;
-}
-
-.cadaOpcion input , .cadaOpcion div {
-    display: inline-block;
-}
-
-.resultados {
-    position: absolute;
-    top: 71%;
-    width: 100%;
-    z-index: 20;
-    visibility: hidden;
-    background-color: #fff;
-}
-
-.resultados.respuesta {
-    visibility: visible;
-}
-
-.resultados ul li {
-    list-style: none;
-    margin: 10px;
-} */
-
-/* .botonOpcion:checked .resultados {
-    z-index: 20;
-} */
 @media (min-height: 100px) and (max-width:910px){
+    .noticias div img {
+        height: 300px;
+    }
     .quiz{
         margin: 50px 50px;
     }
