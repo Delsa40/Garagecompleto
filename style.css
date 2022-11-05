@@ -169,6 +169,10 @@ section h2 {
     line-height: 25px;
 }
 
+#propiedadimagenes {
+    text-align: center;
+}
+
 #irAlComienzo {
     position:fixed;
     top: 90%;
