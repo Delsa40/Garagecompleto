@@ -6,7 +6,6 @@
     <link rel="shortcut icon" href="img/Logo.jpg"/>
     <script src="https://kit.fontawesome.com/9a459af5fb.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script src="scripts.js" defer></script>
 </head>
 <body>
     <header id="comienzo">

@@ -1,60 +1,25 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Garagecompleto</title>
-    <link rel="stylesheet" href="style.css"/>
-    <link rel="shortcut icon" href="img/Logo.jpg"/>
-    <script src="https://kit.fontawesome.com/9a459af5fb.js" crossorigin="anonymous"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
-<body>
-    <header id="comienzo">
-        <img id="logo" src="img/Logo.jpg" />
-        <h1 id="garagecompleto">Garagecompleto</h1>   
-    </header>
-    <nav id="botonesIndice">
-        <ul>
-            <a href="marcas.html"><li class="indice">Marcas</li></a>
-            <a href="juegos.html"><li class="indice">Juegos</li></a>
-            <a href="index.html"><li class="indice">Novedades</li></a>
-            <a href="acercade.html"><li class="indice">Acerca De</li></a>
-        </ul>
-    </nav>
+<?php require('header.php') ?>
     <section class="sectionMarca">
         <h1 class="nombreMarca">BMW</h1>
         <article class="modelo">
             <img src="img/2002HommageConcept2016.jpg">
-            <p><a href="2002HommageConcept2016.html">2002 Hommage Concept 2016</a></p>
+            <p><a href="2002HommageConcept2016.php">2002 Hommage Concept 2016</a></p>
         </article>
         <article class="modelo">
             <img src="img/635CSi1985.jpg">
-            <p><a href="635CSi1985.html">635 CSi 1985</a></p>
+            <p><a href="635CSi1985.php">635 CSi 1985</a></p>
         </article>
         <article class="modelo">
             <img src="img/M3E30(1986-1992).jpg">
-            <p><a href="M3E30(1986-1992).html">M3 E30 (1986-1992)</a></p>
+            <p><a href="M3E30(1986-1992).php">M3 E30 (1986-1992)</a></p>
         </article>
         <article class="modelo">
             <img src="img/M3E922008.jpg">
-            <p><a href="M3E922008.html">M3 E92 2008</a></p>
+            <p><a href="M3E922008.php">M3 E92 2008</a></p>
         </article>
         <article class="modelo">
             <img src="img/1M2012.jpg">
-            <p><a href="1M2012.html">1M 2012</a></p>
+            <p><a href="1M2012.php">1M 2012</a></p>
         </article>
     </section>
-    <a href="#comienzo" id="irAlComienzo"><i class="fa-solid fa-angle-up"></i></a>
-    <footer>
-        <div>
-            Síguenos en Instagram:<br>
-            <a id="instagram" href="https://www.instagram.com/garagecompleto/">
-                <i class="fa-brands fa-instagram"></i> garagecompleto
-            </a>
-        </div>
-        <div id="copyright">
-            <i class="fa-solid fa-copyright"></i> Copyright 2022
-        </div>
-        <a id="contactanos" href="mailto:nicolasdelsanto4@gmail.com">Contáctanos</a>
-    </footer>
-</body>
-</html>
+    <?php require('footer.php') ?>

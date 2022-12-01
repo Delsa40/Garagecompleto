@@ -1,52 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Garagecompleto</title>
-    <link rel="stylesheet" href="style.css"/>
-    <link rel="shortcut icon" href="img/Logo.jpg"/>
-    <script src="https://kit.fontawesome.com/9a459af5fb.js" crossorigin="anonymous"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
-<body>
-    <header id="comienzo">
-        <img id="logo" src="img/Logo.jpg" />
-        <h1 id="garagecompleto">Garagecompleto</h1>    
-    </header>
-    <nav id="botonesIndice">
-        <ul>
-            <a href="marcas.html"><li class="indice">Marcas</li></a>
-            <a href="juegos.html"><li class="indice">Juegos</li></a>
-            <a href="index.html"><li class="indice">Novedades</li></a>
-            <a href="acercade.html"><li class="indice">Acerca De</li></a>
-        </ul>
-    </nav>
+<?php require('header.php') ?>
     <section class="sectionMarca">
         <h1 class="nombreMarca">PEUGEOT</h1>
         <article class="modelo">
             <img src="img/ProximaConcept1986.jpg">
-            <p><a href="ProximaConcept1986.html">Proxima Concept 1986</a></p>
+            <p><a href="ProximaConcept1986.php">Proxima Concept 1986</a></p>
         </article>
         <article class="modelo">
             <img src="img/SR1Concept2010.jpg">
-            <p><a href="SR1Concept2010.html">SR1 Concept 2010</a></p>
+            <p><a href="SR1Concept2010.php">SR1 Concept 2010</a></p>
         </article>
         <article class="modelo">
             <img src="img/206WRC.jpg">
-            <p><a href="206WRC.html">206 WRC</a></p>
+            <p><a href="206WRC.php">206 WRC</a></p>
         </article>
     </section>
-    <a href="#comienzo" id="irAlComienzo"><i class="fa-solid fa-angle-up"></i></a>
-    <footer>
-        <div>
-            Síguenos en Instagram:<br>
-            <a id="instagram" href="https://www.instagram.com/garagecompleto/">
-                <i class="fa-brands fa-instagram"></i> garagecompleto
-            </a>
-        </div>
-        <div id="copyright">
-            <i class="fa-solid fa-copyright"></i> Copyright 2022
-        </div>
-        <a id="contactanos" href="mailto:nicolasdelsanto4@gmail.com">Contáctanos</a>
-    </footer>
-</body>
-</html>
+    <?php require('footer.php') ?>
