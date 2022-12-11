@@ -5,6 +5,30 @@
         <h2>Noticias de la última semana</h2>
         <article class="noticias">
             <div>
+                <img src="img/GTMK.jpg" />
+                <img class="NoResponsive" src="img/GTMK2.jpg" />
+                <img class="NoResponsive" src="img/GTMK3.jpg" />
+            </div>
+            <p class="parrafoNoticia">
+                Ford despide la segunda generación del Ford GT con una nueva edición especial más radical y exclusivamente para la pista. Se llama Ford GT MK IV, que le rinde homenaje al famoso GT40 Mark IV ganador de las 24 Horas de Le Mans en 1967. Su motor es un V6 EcoBoost biturbo capaz de alcanzar los 800cv. Al ser una versión tan especial, sólo se fabricarán 67 unidades a un precio de 1,7 millones de dólares. Al igual que el GT de competición utilizado en el GTE Pro del WEC, el auto se realizó en colaboración con Multimatic y Ford Performance, logrando un diseño aún más bestial y aerodinámico con una carrocería íntegramente de fibra de carbono. 
+            </p>
+            <img class="Responsive" src="img/GTMK2.jpg" />
+            <img class="Responsive" src="img/GTMK3.jpg" />
+        </article>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-1739753120643849"
+     data-ad-slot="4611681044"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        <h2>Noticias de la semana anterior</h2>
+        <article class="noticias">
+            <div>
                 <img src="img/bmwcsl.jpg" />
                 <img class="NoResponsive" src="img/bmwcsl2.jpg" />
                 <img class="NoResponsive" src="img/bmwcsl3.jpg" />
@@ -48,7 +72,7 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-        <h2>Noticias de la semana anterior</h2>
+        <h2>Noticias de la semana anterior a la anterior</h2>
         <article class="noticias">
             <div>
                 <img src="img/Prius.jpg" />
@@ -152,76 +176,6 @@
             </p>
             <img class="Responsive" src="img/Genesis.jpg" />
             <img class="Responsive" src="img/Geko.jpg" />
-        </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-1739753120643849"
-     data-ad-slot="4611681044"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-        <h2>Noticias de la semana anterior a la anterior</h2>
-        <article class="noticias">
-            <div>
-                <img src="img/HondaAccord.jpg" />
-                <img class="NoResponsive" src="img/HondaAccord2.jpg" />
-                <img class="NoResponsive" src="img/HondaAccord3.jpg" />
-            </div>
-            <p class="parrafoNoticia">
-                Honda presentó la nueva generación del Accord, que es más grande que la anterior, con 7.1 cm más de largo y 1.3 cm más de ancho. En cuanto a su mecánica, el motor 2.0 litros turbo de 265hp que tiene el Type R deja de estar disponible, por lo tanto ahora posee dos opciones: una mecánica de 1.5 litros turbo con 195hp y caja CVT o una mecánica híbrida con un bloque de cuatro cilindros y 2.0 litros asociado a dos propulsores eléctricos que generan una potencia combinada de 207hp con la misma caja CVT y olvidando la automática de 10 velocidades. Honda afirma que hay una mejor puesta a punto de la transmisión, ajustes del chasis para una mayor rigidez estructural y ajustes en la suspensión. Todavía no se han revelado sus precios, versiones y fechas de comercialización.  
-            </p>
-            <img class="Responsive" src="img/HondaAccord2.jpg" />
-            <img class="Responsive" src="img/HondaAccord3.jpg" />
-        </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-1739753120643849"
-     data-ad-slot="4611681044"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-        <article class="noticias">
-            <div>
-                <img src="img/HondaPilot.jpg" />
-                <img class="NoResponsive" src="img/HondaPilot2.jpg" />
-                <img class="NoResponsive" src="img/HondaPilot3.jpg" />
-            </div>
-            <p class="parrafoNoticia">
-                Honda también presentó la nueva generación de su SUV Pilot, que es más cuadrada y robusta. Cuenta con un V6 de 3.5 litros y 285hp (5hp más que la anterior) con una transmisión automática de 10 cambios como estándar y puede venir con tracción delantera o en las cuatro ruedas. También se puede optar por tener espacio para siete u ocho pasajeros, con versiones de lujo como el Touring o Elite que tienen techo panorámico corredizo y sistema de sonido Bose de 12 bocinas. Tiene una versión TrailSport orientada al todoterreno con ruedas de 18 pulgadas y neumáticos todoterreno y ajustes en el sistema de tracción total que ayudan a generar un mayor torque a las ruedas traseras. En el interior hay una pantalla táctil de infoentretenimiento de 7 pulgadas y un grupo de indicadores digitales, además de contar con Apple CarPlay y Android Auto. Aunque en las versiones TrailSport, Touring y Elite la pantalla es de 9 pulgadas. Además, todas sus versiones cuentan con una asistencia al conductor llamada Honda Sensing, que incluye cosas como frenado de emergencia automatizado, monitoreo de punto ciego o control de crucero adaptativo.  
-            </p>
-            <img class="Responsive" src="img/HondaPilot2.jpg" />
-            <img class="Responsive" src="img/HondaPilot3.jpg" />
-        </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-1739753120643849"
-     data-ad-slot="4611681044"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-        <article class="noticias">
-            <div>
-                <img src="img/RecordAMGONE.jpg" />
-                <img class="NoResponsive" src="img/RecordAMGONE2.jpg" />
-                <img class="NoResponsive" src="img/RecordAMGONE3.jpg" />
-            </div>
-            <p class="parrafoNoticia">
-                El Mercedes Benz AMG One ha batido el record de vuelta rápida para un coche de producción en Nürburgring con un tiempo de 6:35.183. El piloto que realizó esta hazaña fue el competidor de DTM y ganador de las 24 horas de Nürburgring, Maro Engel. La vuelta record se consiguió el 28 de octubre, según Mercedes, en un día de otoño en el que partes de la pista aún no estaban completamente secas. El anterior poseedor del record era el Mercedes Benz AMG GT Black Series que necesitó 8 segundos más. La diferencia es entendible, ya que el AMG One es lo más parecido a un Fórmula 1 de calle, con un tren motriz derivado de la misma categoría con un V6 turboalimentado de 11000rpm y un motor eléctrico para las ruedas traseras y otros dos para cada una de las ruedas delanteras, además de contar con aerodinámica activa. El record podría haber sido aún mayor si Nürburgring no hubiese cambiado el estilo de su pista para medir los tiempos por vuelta, en donde se agregó una pequeña recta extra. 
-            </p>
-            <img class="Responsive" src="img/RecordAMGONE2.jpg" />
-            <img class="Responsive" src="img/RecordAMGONE3.jpg" />
         </article>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>

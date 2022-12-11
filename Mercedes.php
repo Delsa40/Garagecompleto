@@ -2,6 +2,10 @@
     <section class="sectionMarca">
         <h1 class="nombreMarca">MERCEDES BENZ</h1>
         <article class="modelo">
+            <img src="img/500SL.jpg">
+            <p><a href="500SL.php">500 SL</a></p>
+        </article>
+        <article class="modelo">
             <img src="img/E55W210.jpg">
             <p><a href="E55W210AMG.php">E55 W210 AMG</a></p>
         </article>
