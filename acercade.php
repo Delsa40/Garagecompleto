@@ -13,8 +13,7 @@
             marcas y modelos que seguro no conocías. Cada modelo, ya sea de las marcas o rarezas, tendrá su ficha técnica 
             y datos de interes. Además hay como mínimo 2 fotos del auto(si estás usando una computadora de escritorio 
             pasa el cursor por encima de la primera foto para acceder a la segunda). En la pestaña Juegos no habrá un 
-            Gran Turismo o Forza pero si habrán juegos entretenidos para pasar el rato y poner a prueba tus conocimientos.<br>
-            No te olvides de seguirnos en Instagram, @garagecompleto, donde encontrarás más fotos, juegos e historias.
+            Gran Turismo o Forza pero si habrán juegos entretenidos para pasar el rato y poner a prueba tus conocimientos.
         </p>
         <p>
             Quiero agredecer a todos los que apoyan la cuenta cada día. Conocí un montón de gente buena onda

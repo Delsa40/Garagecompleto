@@ -1,9 +1,8 @@
 <a href="#comienzo" id="irAlComienzo"><i class="fa-solid fa-angle-up"></i></a>
     <footer>
         <div>
-            Síguenos en Instagram:<br>
             <a id="instagram" href="https://www.instagram.com/garagecompleto/">
-                <i class="fa-brands fa-instagram"></i> garagecompleto
+                <i class="fa-brands fa-instagram"></i>
             </a>
         </div>
         <div id="copyright">
