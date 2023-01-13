@@ -21,14 +21,13 @@
                 Esta coupé bautizada como "tiburón" por la forma de su trompa, contaba con un motor delantero 
                 longitudinal de 6 cilindros en línea de aspiración natural que desarrollaba un par máximo de 310Nm
                 desde 4000rpm y una potencia máxima de 218cv a 5200rpm transmitida a las ruedas traseras de 14 pulgadas 
-                través de una transmisión manual de 5 velocidades.<br><br>
+                a través de una transmisión manual de 5 velocidades.<br><br>
                 Tenía opcionales como el techo levadizo accionado por manivela, espejo retrovisor derecho, tapizado de 
                 cuero, radio y pintura metalizada. Los frenos eran a disco en las cuatro ruedas, la dirección hidráulica 
                 y tenía ABS y computadora de abordo.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, archivodeautos</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

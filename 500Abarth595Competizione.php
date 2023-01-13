@@ -22,11 +22,10 @@
                 por una caja manual de 5 velocidades o cambio secuencial robotizado de 5 velocidades. Además, 
                 cuenta con escapes Abarth de 4 salidas y válvula "Record Monza", suspensión MacPherson, chasis 
                 con suspensión deportiva rebajada, amortiguadores KONI, discos de freno Brembo, asientos Sabelt GT y llantas de 
-                aleación de 17 pulgadas. Mediante un botón puedes elegir que el escape sea más discreto y deportivo o 
+                aleación de 17 pulgadas. Un dato interesante es que mediante un botón podes elegir que el escape sea más discreto y deportivo o 
                 liberar un rugido más salvaje.  
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: km77, abarth</div>
     </section>
     <?php require('footer.php') ?>

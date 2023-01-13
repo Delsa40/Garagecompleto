@@ -24,11 +24,11 @@
                 en cuenta que el DTM fue inventado, liderado y dirigido por fabricantes alemanes.<br><br>
                 Montaba un V6 de 2,5 litros capaz de alcanzar las 11900rpm, modificado con 4 válvulas por cilindro(las de 
                 entrada en titanio y las de salida en acero), cigüeñal en acero, lubricación por cárter seco con circuitos de 
-                refrigeración y gestión electrónica de inyección y encendido con un procesador usado en la Formula 1.
+                refrigeración y gestión electrónica de inyección y encendido con un procesador usado en la Formula 1.<br><br>
+                Un auto que quedó y seguirá siendo un ícono para Alfa Romeo en la competición. 
             </p>
             <img id="tercera" src="img/155V6TiDTM19933.jpg"/>
         </article>
-        <div id="referencias">Referencias: alfaromeo, redbull</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

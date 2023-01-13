@@ -19,7 +19,7 @@
             </p>
             <p id="p2">
                 Fue diseñado para el Campeonato francés de Superturismo, en donde en la primera carrera, el 20 de 
-                marzo de 1988 obtuvo el podio. Fueron diez carreras, de las cuales el 21 Turbo ganó seis de ellas, pero 
+                marzo de 1988, obtuvo el podio. Fueron diez carreras, de las cuales el 21 Turbo ganó seis de ellas, pero 
                 al final del campeonato quedó posicionado detrás de Audi y Porsche. Entre otros pilotos, la marca del rombo confió en 
                 Jean Ragnotti y Jean-Louis Bousquet.<br><br>
                 Poseía un eje de transmisión de fibra de carbono de 2,35m de largo y una aerodinámica muy efectiva probada 
@@ -29,7 +29,6 @@
             </p>
             <img id="tercera" src="img/21TurboSuperproduction19883.jpg"/>
         </article>
-        <div id="referencias">Referencias: renaultclassic, periodismodelmotor</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

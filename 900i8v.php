@@ -18,13 +18,12 @@
                 Peso: 1245kg
             </p>
             <p id="p2">
-                En Mayo de 1978 fue presentado el Saab 900, que venía a sustituir al Saab 99. 
+                En Mayo de 1978 fue presentado el Saab 900, un ícono de la marca que venía a sustituir al Saab 99. 
                 Inicialmente se ofrecieron dos carrocerías de tres y cinco puertas. Luego apareció una 
                 20cm más larga denominada CD con variantes GLE y Turbo y otra de cuatro puertas. 
                 Fue lanzado con cuatro motorizaciones: una de un carburador y 100 CV, otra de dos carburadores y 108 CV, la de inyección con 118 CV y la Turbo(160cv).
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: motormania</div>
     </section>
     <?php require('footer.php') ?>

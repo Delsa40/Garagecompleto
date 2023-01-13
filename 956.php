@@ -18,7 +18,7 @@
                 Peso: 820/850kg
             </p>
             <p id="p2">
-                El Porsche 956 es un sport prototipo del Grupo C que compitió en el Campeonato Mundial de 
+                El Porsche 956 es un auto del Grupo C que compitió en el Campeonato Mundial de 
                 Resistencia desde 1982 hasta 1986. Se construyeron 
                 28 unidades oficiales. Una evolución del 956, el Porsche 962, fue sustituyendo al 956 a partir 
                 de 1985.<br><br>
@@ -35,13 +35,12 @@
                 inyección electrónica.<br><br>
                 Dada la abrumadora cantidad de equipos con Porsche, el Campeonato Mundial de Resistencia pasó a otorgar 
                 títulos de equipos en 1985. El equipo oficial de Porsche siempre puntuó con los más recientes 962 rumbo 
-                al título, aunque otros equipos sí puntuaron con el 956; de hecho lograron el 1-2 en Le Mans, dejando al 
+                al título, aunque otros equipos también puntuaron con el 956; de hecho lograron el 1-2 en Le Mans, dejando al 
                 mejor 962 en el tercer escalón del podio. En 1986, Brun fue campeón con dos resultados puntuables para el 
                 956. El 962 logró el 1-2 en Le Mans, relegando a los 956 a las siguientes tres posiciones.
             </p>
             <img id="tercera" src="img/9563.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

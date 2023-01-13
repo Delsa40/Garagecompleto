@@ -18,10 +18,10 @@
                 Peso: ?
             </p>
             <p id="p2">
-                Presentado en el Salón de Ginebra de 2001, está derivado del Astra coupé de competición que corrió en el campeonato alemán DTM. 
+                Fue presentado en el Salón de Ginebra de 2001 y está derivado del Astra coupé de competición que corrió en el campeonato alemán DTM. 
                 El motor, en posición delantera, tiene la misma disposición y cilindrada que el de carreras. 
                 Es un V8 de cuatro litros de cilindrada que consigue aproximádamente 440 CV de potencia y 
-                desarrolla un par máximo de 530 Nm. Esta potencia se transmite a las ruedas traseras. Los discos de 
+                desarrolla un par máximo de 530 Nm que se transmite a las ruedas traseras. Los discos de 
                 freno son de carbono con pinzas monobloque AP Racing, que fueron fabricadas en aluminio.<br><br>
                 El salpicadero se encuentra rematado en Alcantara. Los dos posibles ocupantes están sentados más cerca del 
                 eje trasero y más centrados que en el Astra Coupé. El habitáculo se encuentra reforzado por una 
@@ -32,7 +32,6 @@
             </p>
             <img id="tercera" src="img/AstraOPCX-TREMEConcept20013.jpg"/>
         </article>
-        <div id="referencias">Referencias: km77</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

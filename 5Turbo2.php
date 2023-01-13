@@ -19,23 +19,19 @@
             </p>
             <p id="p2">
                 El Renault 5 Turbo 2 se lanzó en 1983, con carrocería de acero que lo 
-                hacía más lento y por tanto no fue tan competitivo como su predecesor, el "Turbo 1". La intención, sin 
-                embargo, de Renault era desarrollar un versión del coche para ser homologado como Grupo B, 
+                hacía más lento y por lo tanto no fue tan competitivo como su predecesor, el "Turbo 1". Sin embargo, la intención de Renault era desarrollar un versión del coche para ser homologado como Grupo B, 
                 categoría que solo requería la fabricación de 200 unidades del modelo de serie para obtener la 
-                homologación frente a las 400 del grupo 4. El R5 Turbo 2, por tanto, fue más barato de construir 
+                homologación frente a las 400 del grupo 4. El R5 Turbo 2, fue más barato de construir 
                 aunque no tan rápido en competición y compartía muchos elementos del motor delantero del 
                 Renault 5 Gordini Turbo. La aparición de esta versión provocó que para diferenciarlos al primer 
-                R5 Turbo se le llamase popularmente como «Turbo 1» a pesar de que esta nomenclatura nunca había 
+                R5 Turbo se le llamase popularmente como "Turbo 1" a pesar de que esta nomenclatura nunca había 
                 sido oficial.<br>
                 Las principales diferencias del R5 Turbo 2 respecto al R5 Turbo eran la ausencia de los baquets,
                 la sustitución del tablero de instrumentos y la utilización del acero en lugar del aluminio, 
-                que le dotó de 30 kg más de peso. En 1998 Renault lanzó al mercado una versión del Renault 
-                Clio inspirada en el R5 Turbo 2 y también con motor central que llamó Renault Clio V6 Renault 
-                Sport.
+                que lo dotó con 30 kg más de peso.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: ultimatespecs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

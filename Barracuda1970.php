@@ -25,7 +25,7 @@
                 llamada Plataforma E. Esta plataforma fue compartida también con el recién lanzado Dodge 
                 Challenger, aunque no intercambiaban la chapa, y el Challenger tenía una distancia entre ejes 
                 51mm más larga.<br><br>
-                El Barracuda era ahora capaz de sacudirse el estigma de auto económico.Se ofrecieron tres 
+                El Barracuda era ahora capaz de sacudirse el estigma de auto económico. Se ofrecieron tres 
                 versiones: el Barracuda básico (BH), el Gran Coupe de lujo (BP), y el modelo deportivo Cuda (BS).
                 Los modelos de alto rendimiento que se comercializaban como 'Cuda se derivaban de la opción de 
                 1969. El motor del plataforma E era más grande que el de la anterior plataforma A, lo que facilitaba 
@@ -33,7 +33,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: ultimatespecs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

@@ -26,11 +26,10 @@
                 en el primer modelo de la marca Volkswagen.<br><br>
                 Es de cuatro plazas con motor trasero y tración trasera. Además, su mecánica sencilla e indestructible, su configuración de chasis y su carrocería independiente 
                 han hecho que a lo largo de los años sea la base ideal para todo tipo de preparaciones y modificaciones.<br><br>
-                Se vendieron más de 21 millones de unidades alrededor del mundo, consiguiendo varios récords.
+                Se vendieron más de 21 millones de unidades alrededor del mundo, consiguiendo varios récords y convirtiéndose en uno de los autos más icónicos de la historia.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: motormania, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

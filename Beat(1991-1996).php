@@ -20,16 +20,13 @@
             <p id="p2">
                 El Honda Beat es un Kei car de carrocería roadster biplaza, con motor central y tracción trasera producido a partir de mayo de 1991 hasta febrero de 1996. El Beat fue el último coche aprobado por Soichiro Honda antes de morir en 1991. El número total de vehículos producidos fue de alrededor de 33.600. La mayor parte de la producción se produjo el primer año y luego la producción y las ventas cayeron drásticamente. El diseño del coche se dejó en manos del diseñador italiano Pininfarina, quien luego vendió el plan de diseño de Honda. El Beat fue uno de los muchos coches diseñados para aprovechar la clase Kei car de Japón.
 
-Había dos modelos principales del Beat: El PP1-100 y el PP1-110 y un par de versiones de edición limitada. Las variaciones sobre el primer modelo eran solo cambios estéticos. Solo el segundo modelo tenía diferencias mecánicas reales. Todos los modelos contaban con frenos de disco en las cuatro ruedas y suspensión Mc Pherson independiente. Todos los coches se ofrecían con la opción airbag en el lado del conductor. El coche se vendió exclusivamente en Japón en los puntos de venta de concesionarios Honda Primo.
+Había dos modelos principales del Beat: El PP1-100 y el PP1-110 y un par de versiones de edición limitada. Las variaciones sobre el primer modelo eran solo cambios estéticos. Solo el segundo modelo tenía diferencias mecánicas reales. Todos los modelos contaban con frenos de disco en las cuatro ruedas y suspensión Mc Pherson independiente, así como también se ofrecían con la opción airbag en el lado del conductor. El coche se vendió exclusivamente en Japón en los puntos de venta de concesionarios Honda Primo.
 
-Siguiendo la tendendia de Honda, el motor del Beat no utilizó un turbo o supercargador. La cilindrada era de 656 cc modificado con sistema MTREC (Multi Throttle Responsive Engine Control), con cuerpos de mariposa individuales para cada uno de los tres cilindros, para producir 64 CV a 8.100 rpm con una velocidad máxima limitada electrónicamente de 135 km/h (84 mph). Solo estaba disponible con transmisión manual. El diseño del MTREC se utilizó después en el Kei car Honda Today en 1993.
+Siguiendo la tendendia de Honda, el motor del Beat no utilizó un turbo o supercargador. La cilindrada era de 656 cc modificado con sistema MTREC (Multi Throttle Responsive Engine Control), con cuerpos de mariposa individuales para cada uno de los tres cilindros, para producir 64 CV a 8.100 rpm con una velocidad máxima limitada electrónicamente de 135 km/h. Solo estaba disponible con transmisión manual. 
 
 El Beat fue parte de una ola de coches deportivos de tamaño Kei car a principios de la década de 1990. Entre sus competidores se incluyen el Suzuki Cappuccino y Mazda Autozam AZ- 1. Una década más tarde llegó el Smart Roadster, mientras que en Japón no volvería a ver un nuevo modelo del género hasta el Daihatsu Copen. En la actualidad Honda ha presentado el sucesor del Beat, el Honda S660 presentado en 2013.
-
-El 9 de mayo de 2010, se organizó un desfile en el circuito Twin Ring Motegi como parte de una reunión anual de propietarios del Honda Beat. Se reunieron un total de 569 Beats en el desfile que está certificado por Guinness World Records como el desfile más grande de automóviles Honda. El registro se muestra en el libro en 2011.
             </p>
         </article>
-        <div id="referencias">Referencias: Wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

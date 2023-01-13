@@ -23,6 +23,5 @@
             </p>
             <!-- <img id="tercera" src="img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: autopista.es</div>
     </section>
     <?php require('footer.php') ?>

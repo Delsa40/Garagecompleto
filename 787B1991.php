@@ -22,7 +22,7 @@
                 destaca por poseer un motor rotativo y fue un gran coche de competición durante su época de 
                 apogeo. Entre los aspectos a nivel competitivos que se le destacan, venció en las 24 Horas de 
                 Le Mans de 1991, la cual sigue siendo la única victoria de un automóvil que no utiliza un 
-                diseño de motor alternativo, un récord que probablemente nunca se repetirá debido a los 
+                diseño de motor convencional, un récord que probablemente nunca se repetirá debido a los 
                 cambios en el reglamento técnico, y la primera victoria de una marca japonesa en la general. 
                 Se cree que el éxito que tuvo se debió a la innovación al incluir un motor 
                 rotativo, algo bastante novedoso para los años en los que fue desarrollado el vehículo. Era 
@@ -38,7 +38,6 @@
             </p>
             <img id="tercera" src="img/787B19913.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

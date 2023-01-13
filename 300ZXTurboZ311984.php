@@ -22,7 +22,7 @@
                 digital muy sorprendente para la época, en donde puedes consultar la velocidad, autonomía, nivel de combustible, 
                 temperatura, presión de aceite o nivel de la batería y con la ayuda de un gráfico te muestra las revoluciones del 
                 motor.<br><br>
-                El coche base fue diseñado por Kazumasu Takagi y su equipo, quienes mejoraron la aerodinámica e incrementan 
+                El coche base fue diseñado por Kazumasu Takagi y su equipo, quienes mejoraron la aerodinámica e incrementaron
                 el rendimiento en comparación a su predecesor, el 280ZX. Además, se lanzaron dos ediciones especiales del Z31, 
                 el 50th Anniversary Edition que conmemoraba el medio siglo de la marca japonesa y la edición Shiro Special, 
                 con un carácter más deportivo y componentes específicos.<br>
@@ -30,7 +30,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: ultimatespecs, wikipedia, autobild</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

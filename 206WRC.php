@@ -24,8 +24,8 @@
                 victorias y sesenta y cinco podios en el mundial.<br><br>
                 Para poder homologar el 206 como World Rally Car, la marca tuvo que comercializar una versión limitada 
                 de 2500 unidades llamada Peugeot 206 GT, con la única diferencia respecto del 206 convencional en que 
-                esta tenía una longitud de 4,005m, la longitud necesaria para poder ser homologado como tal, alargando los 
-                parachoques, y además, en 2003 se comercializó una versión deportiva del 206 de serie basada en su homólogo de competición 
+                esta tenía una longitud de 4,005m, la longitud necesaria para poder ser homologado como tal, alargando sus 
+                parachoques. Además, en 2003 se comercializó una versión deportiva del 206 de serie basada en su homólogo de competición 
                 llamada Peugeot 206 RC.<br><br>
                 El 206 WRC era un vehículo del segmento C y se le dotó de un motor con turbo de dos litros de 
                 dieciséis válvulas que contaba con tracción a las cuatro ruedas, neumáticos de dieciocho 
@@ -33,7 +33,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

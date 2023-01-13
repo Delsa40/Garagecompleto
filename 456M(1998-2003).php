@@ -19,7 +19,7 @@
             </p>
             <p id="p2">
                 Es un 2+2 plazas con motor central delantero longitudinal y tracción trasera, cuya carrocería coupé de 
-                dos puertas lleva la firma del estudio Pininfarina. El 456 se presentó en el Salón del Automóvil de 
+                dos puertas lleva la firma del famoso estudio Pininfarina. El 456 se presentó en el Salón del Automóvil de 
                 París de 1992, y fue sustituido en 2004 por el Ferrari 612 Scaglietti.
                 El modelo posee tanto antibloqueo de frenos como control de tracción, y varios paneles de la 
                 carrocería están hechos de aluminio. La caja de cambios puede ser manual de seis marchas 
@@ -34,7 +34,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: wikipedia, km77</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

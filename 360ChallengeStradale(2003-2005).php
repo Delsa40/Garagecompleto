@@ -26,7 +26,7 @@
                 quitó todo aquello que no era estrictamente necesario en relación con las prestaciones y la seguridad, dando 
                 como resultado una berlinetta ligera y rápida, con una puesta a punto auténticamente de competición.<br><br>
                 El principal material empleado en la construcción del Challenge Stradale fue el aluminio, utilizado para detalles del chasis y 
-                la carrocería. Titanio para la suspensión y detalles en fibra de carbono. <br><br>
+                la carrocería, titanio para la suspensión y detalles en fibra de carbono. <br><br>
                 El volante llevaba unas levas tipo F1 para los cambios de marcha. Tenía una caja de cambios electrohidráulica(también 
                 al estilo F1) y dos configuraciones de manejo, Sport y Race, como así también la función de Launch Control.<br><br>
                 Poseía un motor central V8 a 90°, en posición longitudinal detrás del habitáculo. Su potencia aumentaba hasta 
@@ -35,7 +35,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: km77, wikipedia, ferrari</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

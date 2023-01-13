@@ -20,10 +20,10 @@
             <p id="p2">
                 El Mercedes Benz C63 AMG cuenta con un motor delantero longitudinal de ocho cilindros en V de aspiración 
                 natural que desarrolla un par máximo de 600Nm desde 5000rpm y una potencia máxima de 457cv a 6800rpm transmitida 
-                a las ruedas traseras de 18 pulgadas a través de una transmisión automática de 7 velocidades.
+                a las ruedas traseras de 18 pulgadas a través de una transmisión automática de 7 velocidades.<br><br>
+                Varios lo consideran como la mejor generación del C63 debido a su potente sonido. 
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: km77, zeperfs</div>
     </section>
     <?php require('footer.php') ?>

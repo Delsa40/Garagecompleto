@@ -20,9 +20,9 @@
             <p id="p2">
                 La evolución de esta generación 997 GT3 trae novedades tanto a nivel mecánico como a nivel estético, 
                 haciéndolo más atractivo y aumentando su dinamismo tanto en conducción normal como en conducción 
-                deportiva en circuito. Aparte de los cambios estéticos propios de la reestilización, su carrocería 
+                deportiva en pista. Aparte de los cambios estéticos propios de la reestilización, su carrocería 
                 se ha optimizado aerodinámicamente para generar mayores fuerzas descendentes y así asegurar una mejor 
-                estabilidad y tracción, como la fuerza de la presión que ejerce el aire pegando el coche al suelo es 
+                estabilidad y tracción, como la fuerza de la presión que ejerce el aire pegando el coche al suelo que es 
                 más del doble que en el modelo al que reemplaza.<br><br>
                 El motor con cárter seco ha sido renovado extensivamente, con un diámetro aumentado hasta los 3797cm³, 
                 con bielas de titanio, árboles de levas huecos y pistones, válvulas y taqués más ligeros. El volante de 
@@ -34,7 +34,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

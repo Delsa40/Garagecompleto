@@ -18,24 +18,23 @@
                 Peso: 1585kg
             </p>
             <p id="p2">
-                Es un coupe biplaza con motor central delantero y tracción trasera. Su producción, la base del modelo 
+                Ésta coupe biplaza cuenta con motor central delantero y tracción trasera. Su producción, la base del modelo 
                 y los principales elementos mecánicos quedaron en manos de Maserati. La carroceria es de fibra de carbono 
                 y está montada sobre un chasis de acero. Además tiene fibra de carbono en elementos como los asientos.<br><br>
-                Posee un 8 cilindros en V de origen Maserati, con una cilindrada de 4691 centímetros cúbicos. Su par máximo 
-                es 470Nm a 4750rpm.<br><br>
+                Posee un 8 cilindros en V de origen Maserati, con una cilindrada de 4691 centímetros cúbicos, mientras que su par máximo 
+                es de 470Nm a 4750rpm.<br><br>
                 Se puede escoger entre cinco opciones de funcionamiento: Manual-Normal, Manual-Sport, Automático-Normal, Automático-Sport 
                 y "Ice"(para arrancar sobre una superficie deslizante).<br><br>
                 Entre los elementos de equipamiento que puede llevar están un programador de velocidad, un 
-                sistema de ayuda al aparcamiento, arranque mediante un botón o freno de estacionamiento 
+                sistema de ayuda al estacionamiento, arranque mediante un botón o freno de estacionamiento 
                 eléctrico. Cuenta con llantas de 20 pulgadas.<br><br>
-                Alfa Romeo utilizó las siglas «8C» durante los años 30 y 40 para designar a los coches que 
-                tenían el motor de ocho cilindros, obra del ingeniero Vittorio Jano. El término «Competizione» 
-                es una referencia al «6C 2500 Competizione» con el que Juan Manuel Fangio participó en las Mil 
+                Alfa Romeo utilizó las siglas "8C" durante los años 30 y 40 para designar a los coches que 
+                tenían el motor de ocho cilindros, obra del ingeniero Vittorio Jano. El término "Competizione" 
+                es una referencia al 6C 2500 Competizione con el que Juan Manuel Fangio participó en las Mil 
                 Millas de 1950.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: ultimatespecs, km77</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

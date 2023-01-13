@@ -28,14 +28,13 @@
                 La transmisión es manual de cinco velocidades y la tracción es permanente a las cuatro ruedas.<br><br>
                 Fue el primer Mazda en usar las siglas MPS, que quiere decir Mazda Performance Series y su desarrollo ha corrido a cargo de Mazda Speed. 
                 Tranquilamente podría haber competido con el Subaru Impreza y el Mitsubishi Lancer.<br><br>
-                Lamentablemente, el Mazda 626 MPS del 2000 jamás vio la luz de un futuro modelo de producción. 
+                Lamentablemente, el Mazda 626 MPS del 2000 jamás vio la luz como un futuro modelo de producción. 
                 El fabricante japonés sintió que no recibió la respuesta esperada por parte del público, 
                 mientras que el 626 contaba los días para finalizar su vida comercial con el cambio de milenio. 
 
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: km77, periodismodelmotor</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
