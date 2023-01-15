@@ -23,12 +23,11 @@
                 (con grandes ruedas de 16 pulgadas).<br><br>
                 Poseía el motor 1JZ-GTE que estaba propulsado por una configuración de un solo turbo en lugar del doble 
                 turbo de sus predecesores. También se actualizaron para tener más torque, ya que ya habían alcanzado 
-                el límite voluntario acordado establecido por la Asociación Japonesa de Fabricantes de Automóviles con 
+                el límite voluntario acordado por la Asociación Japonesa de Fabricantes de Automóviles con 
                 respecto a la potencia. 
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: ultimatespecs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

@@ -20,7 +20,7 @@
             <p id="p2">
                 El Chronos fue creado en 1998 y está equipado con un motor OHC V10 de 6.0L de aspiración natural 
                 (construido a partir de tres V8 de 4.7L) con alrededor de 350 caballos de fuerza. 
-                El diseño del concepto tiene cierta similitud con los autos clásicos de la era Virgil Exner de la década 
+                El diseño del prototipo tiene cierta similitud con los autos clásicos de la era Virgil Exner de la década 
                 de 1950 y con el 300C contemporáneo. El Chronos tiene ruedas de aluminio de 20 pulgadas delanteras y 21 traseras, una gran distancia entre ejes y RWD.
                 Solo se produjo uno y no pasó a la producción en masa.<br><br>
                 El interior cuenta con materiales como el cuero, madera o aluminio y la consola central presentaba un 
@@ -28,7 +28,6 @@
             </p>
             <img id="tercera" src="img/ChronosConcept19983.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia, frikidelmotor</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

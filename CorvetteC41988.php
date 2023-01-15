@@ -19,7 +19,7 @@
             </p>
             <p id="p2">
                 La producción de la cuarta generación del Corvette, conocida como C4, comenzó en 1983 con el modelo 1984, ya que el modelo del año 1983 
-                fue omitido debido a las nuevas normas restrictivas de contaminación en California, aunque los 44 prototipos del modelo 1983 se completaron. Su producción finalizó el 20 de junio de 1996.<br><br>
+                fue omitido debido a las nuevas normas restrictivas de contaminación en California, aunque los 44 prototipos del modelo 1983 se llevaron a cabo. Su producción finalizó el 20 de junio de 1996.<br><br>
                 Era conocido por su evolución, aspecto elegante y moderno.  El coupé fue el primer modelo de producción en tener una ventana trasera panorámica practicable 
                 de vidrio sin división. Venían de serie con un salpicadero electrónico digital con pantalla LCD para el velocímetro, tacómetro y otras funciones 
                 importantes del motor. La potencia era baja en comparación con las generaciones anteriores, por lo tanto, el énfasis principal durante su diseño, 
@@ -33,7 +33,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: ultimatespecs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

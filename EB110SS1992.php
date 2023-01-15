@@ -27,13 +27,13 @@
                 ningún modelo existente cumplia con sus expectativas, decidió hacer uno por su cuenta. Era tal la pasión 
                 por Bugatti de este personaje italiano, que revivió la legendaria marca de automóviles francesa después 
                 de 30 años de estar inactiva. En 1987 compró los derechos de la compañía y se convirtió en el presidente 
-                de Bugatti Automobili SpA. En ese mismo año, encontró un lugar de producción adecuado: no en Francia, sino 
+                de Bugatti Automobili SpA. En ese mismo año, encontró el lugar de producción adecuado: no en Francia, sino 
                 en Italia en la región de Emilia-Romaña, cerca de Módena en Campogalliano. <br><br>
                 Para el desarrollo del nuevo modelo de Bugatti, Artioli no escatimó en gastos. Fiel al lema de Ettore 
                 Bugatti, solamente quería lo mejor para su vehículo. Bajo esta premisa, los ingenieros crearon un 
                 monocasco ligero que pesaba solamente 125kg, debido a que fue construido en fibra de carbono por la 
                 compañía aeroespacial francesa Aérospatiale. Además, el aluminio, carbono y fibra de aramida y plásticos 
-                reforzados con fibras se usaron para la carrocería, los rines fueron fundidos de magnesio y cada tornillo 
+                reforzados con fibras se usaron para la carrocería, mientras que los rines fueron fundidos con magnesio y cada tornillo 
                 y perno estaban hechos de titanio.<br><br>
                 Se eligió un motor V12 de 3,5 litros con cuatro turbocompresores. Con Doble (DOHC) árbol de 
                 levas por bancada de cilindros y cinco válvulas por cámara de combustión, asegurando un rápido intercambio 
@@ -42,7 +42,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: auto-data, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

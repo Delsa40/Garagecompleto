@@ -22,6 +22,5 @@
                 de escape AMG, grandes entradas de aire y un alerón le dan el aspecto deportivo a la coupe. 
             </p>
         </article>
-        <div id="referencias">Referencias: km77, motorpasion</div>
     </section>
     <?php require('footer.php') ?>

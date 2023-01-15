@@ -26,6 +26,5 @@
                 el primer coche en equiparlos de serie.
             </p>
         </article>
-        <div id="referencias">Referencias: km77, jpselectioncars</div>
     </section>
     <?php require('footer.php') ?>

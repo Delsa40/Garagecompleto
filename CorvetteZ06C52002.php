@@ -24,7 +24,7 @@
                 estrenaba en 1997 un motor completamente nuevo: el LS1, un nuevo Small block de 5665cm³ que contaba con el 
                 bloque de aluminio, por lo que a pesar del aumento de tamaño, el C5 era más ligero, pesando unos 36 kg 
                 menos y lo que es más importante, por primera vez la transmisión no estaba a continuación 
-                del motor en la zona delantera, siendo trasladada sobre el eje trasero en posición "transaxle", lo 
+                del motor en la zona delantera, sino que fue trasladada sobre el eje trasero en posición "transaxle", lo 
                 que favorecía un mejor reparto de pesos y una mejor motricidad gracias al nuevo peso ejercido sobre 
                 las ruedas traseras.<br><br>
                 El Z06 era la versión más radical del C5, equipado con una suspensión específica más rígida y deportiva, 
@@ -38,7 +38,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

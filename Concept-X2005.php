@@ -18,7 +18,7 @@
                 Peso: ?
             </p>
             <p id="p2">
-                El Mitsubishi Concept-X era un prototipo de lo que iba ser el Mitsubishi Lancer Evo X.<br><br>
+                El Mitsubishi Concept-X era un adelanto de lo que iba ser el Mitsubishi Lancer Evo X.<br><br>
                 Combina un motor MIVEC DOHC de 2.0 litros con bloque de cuatro cilindros de aluminio turbocargado con una transmisión manual-automática (sin embrague)
                 de 6 velocidades de alto rendimiento. El chasis se mejoró con un sistema de control dinámico 
                 Super All Wheel Control (S-AWC) basado en el 4WD de Mitsubishi. Varias partes del auto son de aluminio 
@@ -30,7 +30,6 @@
             </p>
             <img id="tercera" src="img/Concept-X20053.jpg"/>
         </article>
-        <div id="referencias">Referencias: netcarshow</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

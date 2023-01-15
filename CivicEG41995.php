@@ -19,7 +19,7 @@
             </p>
             <p id="p2">
                 La quinta generación del Civic ofreció mayores dimensiones, así como una carrocería más aerodinámica y moderna. 
-                La característica más llamativa de la quinta generación del Civic fue la futurista línea aerodinámica, con una 
+                Esta generación tuvo una mejor línea aerodinámica, con una 
                 gran flexibilidad de espacio interior capaz de satisfacer los requisitos de la gente joven, debido a que la 
                 distancia entre ejes se incrementó a 2570 milímetros en los hatchback de dos puertas y 2620 mm para el 
                 sedán de cuatro puertas. Entre los premios recibidos por la quinta generación del Civic destacan los del Coche 
@@ -29,7 +29,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: fichasmotor, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

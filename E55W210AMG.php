@@ -19,10 +19,9 @@
             </p>
             <p id="p2">
                 La variante AMG del E55 W210 llegó en 1998 y poseía un motor V8 de 5.4 litros de aspiración natural modificado (M113) que generaba 354cv a 5500rpm, 391 libras-pie de torque y un par máximo de 530Nm a 3000rpm transmitido a las ruedas traseras de 18 pulgadas a través de una transmisión automática de 5 velocidades. <br></br>
-                Fue el último AMG fabricado en la planta de AMG en Affalterbach. Allí se hacía desde la carrocería hasta la suspensión, la transmisión y su motor hecho a mano, a diferencia de sus sucesores y autos posteriores de la marca que sólo construían sus motores en esa fábrica.  
+                Fue el último AMG fabricado en la planta de AMG en Affalterbach. Allí se producía la carrocería, la suspensión, la transmisión y su motor hecho a mano, a diferencia de sus sucesores y autos posteriores de la marca que sólo construían sus motores en esa fábrica.  
             </p>
             <!-- <img id="tercera" src="img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, carscoops</div>
     </section>
     <?php require('footer.php') ?>

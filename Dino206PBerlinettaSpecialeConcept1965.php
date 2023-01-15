@@ -24,11 +24,10 @@
                 el último modelo en el que trabajó Battista "Pinin" Farina, antes de su muerte en 1966. <br><br>
                 Contaba con el motor Dino de seis cilindros en V a 65º de 2.0 litros, situado longitudinalmente como en 
                 los modelos de competición. Además, su característica exterior más llamativa es que el morro estaba formado 
-                por una tapa de plexiglás en forma de pico que cubría los cuatro faros circulares.
+                por una tapa de plexiglás en forma de pico que cubría los cuatro faros circulares, como se puede observar en la foto.
             </p>
             <img id="tercera" src="img/Dino206PBerlinettaSpecialeConcept19653.jpg"/>
         </article>
-        <div id="referencias">Referencias: motor.es, ferrari</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
