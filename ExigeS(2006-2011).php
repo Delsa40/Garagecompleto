@@ -18,7 +18,7 @@
                 Peso: 935kg
             </p>
             <p id="p2">
-                El Exige es esencialmente una versión coupé del Lotus Elise, que es un roadster. Comparado con el 
+                El Exige es la versión coupé del Lotus Elise, que es un roadster. Comparado con el 
                 Elise, este tiene vías más anchas, deflector delantero, un gran alerón trasero y un techo de fibra 
                 de vidrio.<br><br>
                 El Lotus Exige S es 
@@ -28,6 +28,5 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, wikipedia</div>
     </section>
     <?php require('footer.php') ?>

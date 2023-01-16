@@ -24,11 +24,11 @@
                 Fue el presidente de BMW, Eberhard Von Kuemheim, quien encargó al director de desarrollo técnico de BMW 
                 Motorsport GmbH, Paul Rosche, para el desarrollo tanto del S14 como del modelo M3 E30.<br><br>
                 Tuvo varias ediciones limitadas como: Evolution 1 y 2, Tour de Corse, Tourenwagen Europameister, Europameister, 
-                Cabriolet, Cecotto/Ravaglia y Sport Evolution.
+                Cabriolet, Cecotto/Ravaglia y Sport Evolution.<br><br>
+                Sin lugar a dudas a quedado como uno de los BMW más icónicos. 
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

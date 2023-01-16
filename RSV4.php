@@ -18,12 +18,11 @@
                 Peso: 180kg
             </p>
             <p id="p2">
-                La versión Factory de la Aprilia RSV4 es la RF, que se diferencia de la RSV4 RR normal en el  uso de las suspensiones Öhlins completamente regulables. Monta esta RSV4 RF la cuarta generación del sistema APRC, con tres mapas de motor y un nuevo control de tracción con ocho modos. De serie también incluye el cambio rápido de velocidad, el sistema anticaballito, control de arrancada (Launch Control), limitador de velocidad (para uso en carretera o en el pit lane) y velocidad crucero. <br><br>
+                La versión Factory de la Aprilia RSV4 es la RF, que se diferencia de la RSV4 RR normal en el  uso de las suspensiones Öhlins completamente regulables. Esta RSV4 RF monta la cuarta generación del sistema APRC, con tres mapas de motor y un nuevo control de tracción con ocho modos. De serie también incluye el cambio rápido de velocidad, el sistema anticaballito, control de arrancada (Launch Control), limitador de velocidad (para uso en carretera o en el pit lane) y velocidad crucero. <br><br>
                 Además cuenta con un nuevo sistema ABS en curva, que mide la inclinación de la moto, la velocidad, la apertura del acelerador y otras variables, permitiendo el uso de los frenos con seguridad mientras la moto está inclinada. Este sistema tampoco permite que la rueda trasera se levante en situaciones de frenadas muy bruscas.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: motofichas</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

@@ -26,7 +26,6 @@
             </p>
             <img id="tercera" src="img/WildcatConcept19853.jpg"/>
         </article>
-        <div id="referencias">Referencias: topspeed</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

@@ -18,11 +18,10 @@
                 Peso: 1925kg
             </p>
             <p id="p2">
-                Cuenta con un motor delantero longitudinal de ocho cilindros en V sobrealimentado que desarrolla un par máximo de 700Nm desde 1750rpm y una potencia máxima de 560cv a 5700rpm transmitida a las cuatro ruedas de 20 pulgadas a través de una transmisión automática de 8 velocidades.<br><br>
+                Cuenta con un motor delantero longitudinal de ocho cilindros en V sobrealimentado que desarrolla un par máximo de 700Nm desde 1750rpm y una potencia máxima de 560cv a 5700rpm que es transmitida a las cuatro ruedas de 20 pulgadas a través de una transmisión automática de 8 velocidades.<br><br>
                 Existe una versión denominada Performance que eleva la potencia a los 605cv(5cv menos que el Audi R8 V10 Plus) y posee un motor 4.0 TFSI tanto en esta versión como en la normal.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, motorpasion</div>
     </section>
     <?php require('footer.php') ?>

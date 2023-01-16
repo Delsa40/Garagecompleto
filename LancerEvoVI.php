@@ -24,7 +24,6 @@
                 La versión GSR(Grand Sport Rally) varia ligeramente las capacidades de rendimiento, con cambios sutiles en la aceleración, manejo y velocidad.
             </p>
         </article>
-        <div id="referencias">Referencias: auto-data, Wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

@@ -19,13 +19,12 @@
             </p>
             <p id="p2">
                 Desarrollado junto a Porsche, fue el primer vehículo "RS" de Audi, y el primero de sus Avant de alto rendimiento. Además, utilizaba la versión más potente y más desarrollada del motor turboalimentado de cinco cilindros en línea de Audi. <br><br>
-                Estaba basado en el 80 Avant de Audi y construido sobre la plataforma Audi B4. Estaba propulsado por una versión modificada de su motor de gasolina turboalimentado de 2.226 cc en línea, cinco DOHC y cuatro válvulas por cilindro, que producía 315cv a 6500 rpm y 410 Nm a 3000 rpm de torque. Una caja de cambios manual de seis velocidades, tracción en las cuatro ruedas permanente Quattro.<br><br>
-                Aunque gran parte de los cimientos del automóvil fueron fabricados por Audi, Porsche se encargó del ensamblaje, la modificación del motor y los sistemas de suspensión y frenos. Las llantas eran Porsche "Cup", los espejos retrovisores tenían un diseño idéntico al del 964 Turbo y los neumáticos eran Dunlop. Además, la palabra "PORSCHE" está inscrita en el emblema RS 2 colocado en el portón trasero y en la parrilla delantera. <br><br>
-                El interior contaba con un volante de cuero de tres radios, asientos deportivos tipo butaca Recaro y materiales de la consola en madera o fibra de carbono.
+                Estaba basado en el 80 Avant de Audi y construido sobre la plataforma B4 de la marca. Estaba propulsado por una versión modificada de su motor de gasolina turboalimentado de 2.226 cc en línea, cinco DOHC y cuatro válvulas por cilindro, que producía 315cv a 6500 rpm y 410 Nm a 3000 rpm de torque. También contaba con una caja de cambios manual de seis velocidades y tracción en las cuatro ruedas permanente Quattro.<br><br>
+                Aunque gran parte de los cimientos del automóvil fueron fabricados por Audi, Porsche se encargó del ensamblaje, la modificación del motor y los sistemas de suspensión y frenos. Las llantas eran Porsche "Cup", los espejos retrovisores tenían un diseño idéntico al del 964 Turbo y la palabra "PORSCHE" está inscrita en el emblema RS 2 colocado en el portón trasero y en la parrilla delantera. <br><br>
+                El interior contaba con un volante de cuero de tres radios, asientos deportivos tipo butaca Recaro y materiales de la consola en madera o fibra de carbono, mientras que los neumáticos eran de Dunlop.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

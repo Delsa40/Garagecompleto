@@ -19,12 +19,11 @@
             </p>
             <p id="p2">
                 Fue presentado por primera vez en el Salón del Automóvil de Detroit de 2005. <br><br>
-                El GR-1 fue creado con la inspiración de la marca Shelby. Gran parte del chasis del GR-1 está basado en el Ford GT de producción. Al igual que con el Ford Shelby Cobra, el proyecto del GR-1 fue dirigido por Manfred Rumpel y desarrollado por el grupo Advanced Product Creation de Ford. El GR-1 tiene una carrocería de acero inoxidable con dos plazas y con puertas del tipo mariposa. <br><br>
+                El GR-1 fue creado con la inspiración de la marca Shelby. Gran parte del chasis del GR-1 está basado en el Ford GT de producción. Al igual que con el Ford Shelby Cobra, el proyecto del GR-1 fue dirigido por Manfred Rumpel y desarrollado por el grupo Advanced Product Creation de Ford. Además, el GR-1 tiene una carrocería de acero inoxidable con dos plazas y con puertas del tipo mariposa. <br><br>
                 Tiene un motor delantero V10 con bloque de aluminio y con 6,4 L (6400 cc). También posee ciertos componentes del Ford GT y es tracción trasera. El motor del GR-1 alcanza los 605 CV de potencia a 6750 rpm y un par motor máximo de 679 Nm. Además, utiliza una transmisión manual de 6 velocidades y sus llantas son de 19 pulgadas.
             </p>
             <img id="tercera" src="img/ShelbyGR-1Concept20053.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

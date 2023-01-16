@@ -23,6 +23,5 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
     </section>
     <?php require('footer.php') ?>

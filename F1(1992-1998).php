@@ -46,11 +46,10 @@
                 resistencia a las fuerzas de gravedad que se generaban en su andar y, por si no fuera poco, parte 
                 del motor y capó se cubrían con un baño de oro de 24 kilates y no solamente por capricho, ya que se 
                 trata de un material que disipa mejor el calor generado. También, está acoplado a una transmisión manual 
-                de 6 velocidades transversal con embrague de triples discos AP y usaba frenos carbono-cerámicos, además de un alerón que se desplegaba al frenar.
+                de 6 velocidades transversal con embrague de discos triples AP y usaba frenos carbono-cerámicos, además de un alerón que se desplegaba al frenar.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

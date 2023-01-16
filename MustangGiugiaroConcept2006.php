@@ -19,12 +19,12 @@
             </p>
             <p id="p2">
                 Presentado en el Salón Internacional del Automóvil de Los Ángeles de 2006, estaba basado en el Ford 
-                Mustang de producción de quinta generación. Fue diseñado por Italdesign Giugiaro bajo Fabrizio Giugiaro, 
+                Mustang de producción de quinta generación y fue diseñado por Italdesign Giugiaro bajo Fabrizio Giugiaro, 
                 el hijo de Giorgetto Giugiaro. <br><br>
                 Un solo panel forma el parabrisas y el techo, que está hecho de un tipo de cristal que filtra todos los 
                 rayos UV, pero no polariza la luz visible. Las puertas se accionan al tacto y, cuando se abren, se elevan 
-                desde el pilar A en un ángulo de 45 grados.<br><br>
-                El interior está adornado con aluminio y cuero. El tablero de instrumentos, los paneles de las puertas, 
+                desde el pilar A en un ángulo de 45°.<br><br>
+                El interior está adornado con aluminio y cuero, mientras que el tablero de instrumentos, los paneles de las puertas, 
                 los diales y las perillas, el grupo de instrumentos y la palanca de cambios se han rediseñado por 
                 completo. El automóvil también utiliza cámaras de reversa en ambas puertas en lugar de los espejos 
                 retrovisores laterales convencionales. Las nuevas salidas de aire acondicionado estilo periscopio, 
@@ -38,7 +38,6 @@
             </p>
             <img id="tercera" src="img/MustangGiugiaroConcept20063.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

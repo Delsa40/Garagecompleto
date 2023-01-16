@@ -18,7 +18,7 @@
                 Peso: 1500kg
             </p>
             <p id="p2">
-                Fue presentado al público en el Salón del Automóvil de Frankfurt de 2003. Está propulsado por un motor 
+                Fue presentado al público en el Salón del Automóvil de Frankfurt de 2003 y está propulsado por un motor 
                 diesel biturbo V6 de 2.7 litros, que produce 233hp y 500 Nm de torque. Además es tracción trasera y el motor 
                 se desarrolló con Peugeot. <br><br>
                 Diseñado por Ian Callum, el hatchback de 5 puertas presenta puertas con bisagras traseras basadas en la 
@@ -27,6 +27,5 @@
             </p>
             <img id="tercera" src="img/R-D6Concept20033.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
     </section>
     <?php require('footer.php') ?>

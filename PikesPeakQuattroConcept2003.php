@@ -19,7 +19,7 @@
             </p>
             <p id="p2">
                 Se presentó por primera vez en el Salón Internacional del Automóvil de Detroit de 2003. 
-                El Pikes Peak quattro recibió su nombre del famoso circuito de escalada Pikes Peak en las Montañas 
+                La Pikes Peak quattro recibió su nombre del famoso circuito de escalada Pikes Peak en las Montañas 
                 Rocosas, en el que obtuvieron victorias generales y batieron récords durante la década de 1980, debido a 
                 la capacidad todoterreno del Audi Quattro y el Audi Sport Quattro. Además, su diseño fue utilizado luego 
                 para la Q7 de producción.<br><br>
@@ -38,7 +38,6 @@
             </p>
             <img id="tercera" src="img/PikesPeakQuattroConcept20033.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

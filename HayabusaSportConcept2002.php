@@ -20,13 +20,14 @@
             <p id="p2">
                 La característica más llamativa de este auto es que posee un motor de motocicleta de 
                 1.3 litros con 175 caballos de fuerza, 102 libras-pie de torque, caja de cambios secuencial de 6 velocidades,   
-                tracción trasera y sólo pesa 550kg! El motor de aspiración natural viene de la Suzuki GSX-R1300R 
-                Hayabusa, ex poseedora del título de motocicleta de producción más rápida. Fue presentado en 
-                el salón del automóvil de Tokio en 2002. Las puertas son del estilo alas de gaviota. Suzuki 
-                nunca planeó ponerlo en producción y tampoco fue probado en la pista.
+                tracción trasera y sólo pesa 550kg!<br><br>
+                El motor de aspiración natural viene de la Suzuki GSX-R1300R 
+                Hayabusa, ex poseedora del título de motocicleta de producción más rápida.<br><br>
+                Su presentación fue en 
+                el salón del automóvil de Tokio en 2002. Las puertas son del estilo alas de gaviota y Suzuki 
+                nunca planeó ponerlo en producción ni tampoco fue probado en la pista.
             </p>
             <img id="tercera" src="img/HayabusaSportConcept20023.jpg"/>
         </article>
-        <div id="referencias">Referencias: motor1</div>
     </section>
     <?php require('footer.php') ?>

@@ -21,10 +21,8 @@
                 La cuarta generación del S3 viene con un 2.0 TFSI, tracción integral Quattro y cambio 
                 automático de doble embrague S-Tronic. De serie equipa una pantalla digital de infoentretenimiento 
                 de 10,1 pulgadas, sensores de estacionamiento, asistente de esquiva y aviso de cambio involuntario de carril. 
-                Además, las llantas son de 18 pulgadas y posee un selector de modos de conducción. 
-
+                Además, las llantas son de 18 pulgadas y posee un selector de modos de conducción.
             </p>
         </article>
-        <div id="referencias">Referencias: km77, diariomotor</div>
     </section>
     <?php require('footer.php') ?>

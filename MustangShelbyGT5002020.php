@@ -25,12 +25,11 @@
                 Tiene conexión Wifi, 12 altavoces, navegador, comandos de voz, Track Apps que te informan del desempeño en el 
                 circuito, compatibilidad con Android Auto y Apple CarPlay, cámara trasera, detector de punto ciego y asistencias 
                 de manejo. Además, el sonido del escape se puede regular en cuatro niveles: silencioso, normal, deportivo o pista. <br><br>
-                El volante está forrado en Alcántara, el habitáculo posee detalles de fibra de carbono, asientos Recaro y pedales 
+                El volante está forrado en Alcántara, mientras que el habitáculo posee detalles de fibra de carbono, asientos Recaro y pedales 
                 de aluminio.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, motorpasion</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

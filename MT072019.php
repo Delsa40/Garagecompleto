@@ -19,7 +19,7 @@
             </p>
             <p id="p2">
                 Posee un gran motor bicilíndrico de 689cc que ofrece unos nada desdeñables 75cv. Gracias a una 
-                distribución irregular del encendido y el cigüeñal a 270º han conseguido una gran aceleración. Además 
+                distribución irregular del encendido y el cigüeñal a 270° han conseguido una gran aceleración. Además 
                 debemos destacar la entrega de potencia tan suave y el reducido consumo de combustible teniendo en 
                 cuenta su rendimiento. <br><br>
                 Todo el conjunto está soportado por un chasis tubular de tipo backbone fabricado en acero. 
@@ -28,7 +28,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: moto1pro, moteo</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

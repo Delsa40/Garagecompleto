@@ -21,10 +21,9 @@
                 Presentado en el Salón del Automóvil de Frankfurt de 2011, el GT Concept es un sedán de 4 puertas y 
                 tracción trasera con puertas suicidas y un V6 turboalimentado de 3.3 litros y 390 bhp con una 
                 transmisión automática de 6 velocidades. <br><br>
-                El auto se convirtió en la base de diseño para el Kia K9 y el Kia Stinger.
+                Como se puede observar, el auto se convirtió en la base de diseño para el Kia K9 y el Kia Stinger.
             </p>
             <img id="tercera" src="img/GTConcept20113.jpg"/>
         </article>
-        <div id="referencias">Referencias: </div>
     </section>
     <?php require('footer.php') ?>

@@ -19,7 +19,7 @@
             </p>
             <p id="p2">
                 Fue presentado en el Concurso de Elegancia de Pebble Beach el 15 de agosto de 2013. Continúa el 
-                desarrollo iniciado por el automóvil conceptual Cadillac Ciel. Recibió su nombre del lecho del lago 
+                desarrollo iniciado por el automóvil conceptual Cadillac Ciel y recibió su nombre del lecho del lago 
                 seco El Mirage que se usaba para carreras de alta velocidad. <br><br>
                 Está propulsado por un V8 biturbo de 4.5 litros que genera aproximadamente 500hp. Cuenta con un perfil 
                 de techo rígido sin pilares, un estilo de carrocería abandonado por los fabricantes de automóviles 
@@ -29,7 +29,6 @@
             </p>
             <img id="tercera" src="img/ElmirajConcept20133.jpg"/>
         </article>
-        <div id="referencias">Referencias: wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

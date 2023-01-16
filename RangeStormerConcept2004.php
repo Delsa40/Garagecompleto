@@ -30,11 +30,10 @@
                 de combustible. También hay dos pantallas de DVD en la parte trasera y una en la delantera que gira cuando no 
                 se está usando. <br><br>
                 En cuanto al motor, posee un V8 sobrealimentado desarrollado por Land Rover, a partir de un motor 
-                Jaguar. Entrega su potencia a las cuatro ruedas mediante una caja automática de seis velocidades.
+                Jaguar y entrega su potencia a las cuatro ruedas mediante una caja automática de seis velocidades.
             </p>
             <img id="tercera" src="img/RangeStormerConcept20043.jpg"/>
         </article>
-        <div id="referencias">Referencias: landrover</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

@@ -24,13 +24,12 @@
                 brazos en color titanio. Al igual que los demás "Golf GTI" está disponible con caja manual de 6 
                 velocidades o la DSG, también de 6 velocidades. <br><br>
                 Sus vestiduras son de piel con la parte central de microfibras en diseño "San Remo", que imita el patrón 
-                de la banda de rodamiento de unos neumáticos Pirelli, presenta costuras en color amarillo en asientos, 
-                volante y palancas de velocidades y de freno de mano. Hay logotipos Pirelli en el volante y en las cabeceras. 
+                de la banda de rodamiento de unos neumáticos Pirelli y presenta costuras en color amarillo en asientos, 
+                volante, palanca de cambios y freno de mano. También hay logotipos Pirelli en el volante y en las cabeceras. 
                 Entre otros colores, el exterior está disponible en el color Amarillo Sunflower exclusivo de esta versión especial.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, wikipedia</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

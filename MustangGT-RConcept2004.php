@@ -27,6 +27,5 @@
             </p>
             <img id="tercera" src="img/MustangGT-RConcept20043.jpg"/>
         </article>
-        <div id="referencias">Referencias: caranddriver</div>
     </section>
     <?php require('footer.php') ?>

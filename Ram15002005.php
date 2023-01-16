@@ -20,7 +20,7 @@
             <p id="p2">
                 La Dodge Ram 1500 ofrecía, como opciones, motores V6 de 2,7 litros, V8 de 4,7 y 5,7 litros y V10 de 
                 8,3 litros. <br><br>
-                Cuenta con suspensión delantera independiente con resortes de torsión y barra estabilizadora. La suspensión 
+                Cuenta con suspensión delantera independiente con resortes de torsión y barra estabilizadora, mientras que la suspensión 
                 trasera es un sistema de viga trasera con ballestas. La potencia de frenado proviene de los frenos de disco ventilados 
                 en las cuatro ruedas y un antibloqueo del sistema de frenado, también en las cuatro ruedas. Las opciones de transmisión 
                 son: manual de seis velocidades o automática de cinco velocidades. <br><br>
@@ -29,7 +29,6 @@
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: puromotores</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

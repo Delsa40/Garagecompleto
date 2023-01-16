@@ -20,13 +20,12 @@
             <p id="p2">
                 La versión R del Golf MK8 es más potente, tiene un ajuste específico del chasis, algunos cambios 
                 estéticos más deportivos, tracción total, tres colores disponibles para la carrocería(Blue metallic, Pure White y Deep Black Pearl Effect) y la sigla "R" 
-                por todos lados. Además, suma un modo Drift para derrapar. Opcionalmente se ofrece un sistema de 
+                por todos lados. Además, suma un modo Drift para derrapar y opcionalmente se ofrece un sistema de 
                 escape de titanio Akrapovic. También, está equipado con el mismo bloque de cuatro cilindros y 2.0 
                 litros TSI que los Golf GTI, pero este llega a los 320cv y 250km/h de velocidad máxima. Si se opta por el paquete "R-Performance" 
                 la velocidad máxima llega a los 270km/h y se suman los modos de conducción "Special" y el "Drift" ya mencionado.
             </p>
         </article>
-        <div id="referencias">Referencias: km77, autonocion, caranddriver</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

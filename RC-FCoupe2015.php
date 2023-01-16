@@ -24,12 +24,11 @@
                 Hay tres opciones de equipamiento: Executive, Carbon Package y Luxury. Entre los elementos de equipamiento 
                 se encuentran faros LED, equipo de sonido de diez altavoces, reproductor de DVD, navegador, climatizador, sensores 
                 de estacionamiento delanteros y traseros y un mando que permite seleccionar distintos modos de 
-                conducción(Eco, Normal, Sport y Sport+). El alerón trasero sube y baja en función del modo de conducción 
+                conducción(Eco, Normal, Sport y Sport+). Además, el alerón trasero sube y baja en función del modo de conducción 
                 elegido.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: zeperfs, km77</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

@@ -18,10 +18,9 @@
                 Peso: 1970kg
             </p>
             <p id="p2">
-                El Audi S6 C7.5 cuenta con un motor 4.0 TFSi de ocho cilindros en V sobrealimentado que desarrolla un par máximo de 550Nm a 1400rpm y una potencia máxima de 450cv a 5800rpm transmitida a las cuatro ruedas de 19 pulgadas a través de una transmisión automática de 7 velocidades.
+                El Audi S6 C7.5 cuenta con un motor 4.0 TFSi V8 sobrealimentado que desarrolla un par máximo de 550Nm a 1400rpm y una potencia máxima de 450cv a 5800rpm transmitida a las cuatro ruedas de 19 pulgadas a través de una transmisión automática de 7 velocidades.
             </p>
             <!-- <img id="tercera" src="img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: km77, zeperfs</div>
     </section>
     <?php require('footer.php') ?>

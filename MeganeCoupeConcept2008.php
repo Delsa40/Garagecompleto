@@ -27,11 +27,10 @@
                 exterior. Además, hay dos cámaras en la parte exterior de la carrocería que hacen las funciones de espejos retrovisores.<br><br>
                 Posee un motor 2.0 gasolina turbo de 200 caballos con una caja de cambios manual de seis velocidades. Mientras 
                 que en el interior, hay dos asientos asimétricos y encontramos un climatizador de cuatro zonas y equipo 
-                multimedia desarrollado junto a Samsung. El parabrisas panorámico aporta iluminación artificial por la noche, ofreciendo una luz azulada a su habitáculo.
+                multimedia desarrollado junto a Samsung. También, un dato interesante es que el parabrisas panorámico aporta iluminación artificial por la noche, ofreciendo una luz azulada a su habitáculo.
             </p>
             <img id="tercera" src="img/MeganeCoupeConcept20083.jpg"/>
         </article>
-        <div id="referencias">Referencias: motorpasion, km77</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

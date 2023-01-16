@@ -18,13 +18,12 @@
                 Peso: 1530kg
             </p>
             <p id="p2">
-                La mecánica RB26 de 2.6 litros turboalimentada de seis cilindros en línea era casi idéntica a la empleada en el R32 aunque contaba con algunos componentes internos reforzados y una caja de cambios casi idéntica de 5 velocidades. Al igual que en el R32, la potencia se mantuvo sin cambios en los 276 CV, aunque el par aumentó ligeramente hasta los 367 Nm, pero su peso era mayor. La potencia se mantuvo para respetar el pacto de caballeros de la Asociación de Fabricantes de Automóviles Japonenes en los años 80 y 90. <br><br>
+                La mecánica RB26 de 2.6 litros turboalimentada de seis cilindros en línea era casi idéntica a la empleada en el R32 aunque contaba con algunos componentes internos reforzados y una caja de cambios casi idéntica de 5 velocidades. Al igual que en el R32, la potencia se mantuvo sin cambios en los 276 CV, aunque el par aumentó ligeramente hasta los 367 Nm, pero su peso era mayor. La potencia se mantuvo con el fin de respetar el pacto de caballeros de la Asociación de Fabricantes de Automóviles Japonenes en los años 80 y 90. <br><br>
                 Las llantas eran de aleación de 17 pulgadas y tenía frenos Brembo. Nissan también actualizó el sistema de tracción a las cuatro ruedas (ATTESA E-TS) y el sistema de dirección a las cuatro ruedas (Super HICAS).<br><br>
                 El R33 de las fotos tiene el color Midnight Purple, el cual era bastante buscado por los aficionados por su exclusividad y su tono que cambiaba dependiendo de como interactuaba la luz con la pintura.
             </p>
             <!-- <img id="tercera" src="C:\Users\Living\Documents\NICO\Garagecompleto/img/.jpg"/> -->
         </article>
-        <div id="referencias">Referencias: ultimatespecs, autonocion</div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

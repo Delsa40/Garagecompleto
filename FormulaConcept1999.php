@@ -29,7 +29,6 @@
             </p>
             <img id="tercera" src="img/FormulaConcept19993.jpg"/>
         </article>
-        <div id="referencias">Referencias: </div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

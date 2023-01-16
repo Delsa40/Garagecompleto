@@ -20,11 +20,9 @@
             <p id="p2">
                 Presentado en el 2015, Audi nos mostraba lo que podría haber sido una nueva versión del TT, como la RS o más radical, pero lamentablemente nunca salió a producción.
                 Con la ya conocida mecánica 2.5 TFSI de 5 cilindros era capaz de llegar a los 600 caballos de Potencia
-                y 650Nm, con una caja manual de 6 velocidades. Cuenta con dos turbos, uno convencional y otro eléctrico, 
-                suspensión regulable, frenos carbocerámicos, llantas de 20 pulgadas, jaula antivuelco en titanio y nuevos asientos.
+                y 650Nm, con una caja manual de 6 velocidades. Cuenta con dos turbos, uno convencional y otro eléctrico, además de una suspensión regulable, frenos carbocerámicos, llantas de 20 pulgadas, jaula antivuelco en titanio y nuevos asientos.
             </p>
             <img id="tercera" src="img/TTClubsportTurboConcept20153.jpg"/>
         </article>
-        <div id="referencias">Referencias: diariomotor</div>
     </section>
     <?php require('footer.php') ?>
