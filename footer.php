@@ -6,9 +6,13 @@
             </a>
         </div>
         <div id="copyright">
-            <i class="fa-solid fa-copyright"></i> Copyright 2022
+            <i class="fa-solid fa-copyright"></i> Copyright <?php echo date("Y") ?>
         </div>
-        <a id="contactanos" href="mailto:nicolasdelsanto4@gmail.com">Contáctanos</a>
+        <div>
+            <a class="politicasycontacto" href="politicasdeprivacidad.php">Políticas de privacidad</a> |
+            <a class="politicasycontacto" href="terminosdeuso.php">Términos de uso</a> |
+            <a class="politicasycontacto" href="mailto:nicolasdelsanto4@gmail.com">Contacto</a>
+        </div>
     </footer>
 </body>
 </html>

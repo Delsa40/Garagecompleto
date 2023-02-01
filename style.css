@@ -203,6 +203,7 @@ footer {
 }
 
 #instagram {
+    font-size: 30px;
     text-decoration: none;
     color: cyan;
 }
@@ -219,20 +220,20 @@ footer {
     color: darkcyan;
 }
 
-#contactanos {
+.politicasycontacto {
     text-decoration: none;
     color: cyan;
 }
 
-#contactanos:visited {
+.politicasycontacto:visited {
     color: cyan;
 }
 
-#contactanos:hover {
+.politicasycontacto:hover {
     color: #fff;
 }
 
-#contactanos:active {
+.politicasycontacto:active {
     color: darkcyan;
 }
 
@@ -769,6 +770,9 @@ section > p {
     }
     .marcas{
         height: 200px;
+    }
+    .politicasycontacto{
+        display: block;
     }
 }
 @media (min-height: 100px) and (max-width:520px){

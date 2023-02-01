@@ -10,6 +10,7 @@
                 <img class="NoResponsive" src="img/GTMK3.jpg" />
             </div>
             <p class="parrafoNoticia">
+                <b>El GT más radical |</b>
                 Ford despide la segunda generación del Ford GT con una nueva edición especial más radical y exclusivamente para la pista. Se llama Ford GT MK IV, que le rinde homenaje al famoso GT40 Mark IV ganador de las 24 Horas de Le Mans en 1967. Su motor es un V6 EcoBoost biturbo capaz de alcanzar los 800cv. Al ser una versión tan especial, sólo se fabricarán 67 unidades a un precio de 1,7 millones de dólares. Al igual que el GT de competición utilizado en el GTE Pro del WEC, el auto se realizó en colaboración con Multimatic y Ford Performance, logrando un diseño aún más bestial y aerodinámico con una carrocería íntegramente de fibra de carbono. 
             </p>
             <img class="Responsive" src="img/GTMK2.jpg" />
