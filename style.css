@@ -192,6 +192,13 @@ section h2 {
 
 /*----------------------------PIE DE PÁGINA----------------------------*/
 
+#cookies {
+    position: fixed;
+    padding: 1rem;
+    background-color: #dfdddd;
+    z-index: 1000;
+}
+
 footer {
     background-color: rgb(77, 74, 74);
     padding: 2rem;
