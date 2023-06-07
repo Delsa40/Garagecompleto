@@ -1,8 +1,8 @@
 <a href="#comienzo" id="irAlComienzo"><i class="fa-solid fa-angle-up"></i></a>
-<div id="cookies">
+<!-- <div id="cookies">
     Este sitio utiliza cookies para mejorar nuestros servicios. <a href="politicasdeprivacidad.php">Políticas de privacidad</a>
     <button type="button" class="btn btn-outline-primary">Aceptar</button>
-</div>
+</div> -->
     <footer>
         <div>
             <a id="instagram" href="https://www.instagram.com/garagecompleto/">

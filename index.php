@@ -15,7 +15,7 @@
             <img class="Responsive" src="img/GTMK2.jpg" />
             <img class="Responsive" src="img/GTMK3.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+        <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -25,7 +25,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
         <article class="noticias">
             <div>
                 <img src="img/bmwcsl.jpg" />
@@ -38,7 +38,7 @@
             <img class="Responsive" src="img/bmwcsl2.jpg" />
             <img class="Responsive" src="img/bmwcsl3.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+        <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -48,7 +48,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
         <article class="noticias">
             <div>
                 <img src="img/Fiat500e.jpg" />
@@ -62,7 +62,7 @@
             <img class="Responsive" src="img/Fiat500e2.jpg" />
             <img class="Responsive" src="img/Fiat500e3.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+        <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -72,7 +72,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
         <article class="noticias">
             <div>
                 <img src="img/Prius.jpg" />
@@ -86,7 +86,7 @@
             <img class="Responsive" src="img/Prius2.jpg" />
             <img class="Responsive" src="img/Prius3.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+        <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,7 +96,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
         <article class="noticias">
             <div>
                 <img src="img/Impreza.jpg" />
@@ -110,7 +110,7 @@
             <img class="Responsive" src="img/Impreza2.jpg" />
             <img class="Responsive" src="img/Impreza3.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+       <!--  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,7 +120,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
         <article class="noticias">
             <div>
                 <img src="img/Huracan.jpg" />
@@ -134,7 +134,7 @@
             <img class="Responsive" src="img/Huracan2.jpg" />
             <img class="Responsive" src="img/Huracan3.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+        <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,7 +144,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
         <article class="noticias">
             <div>
                 <img src="img/911Dakar1.jpg" />
@@ -158,7 +158,7 @@
             <img class="Responsive" src="img/911Dakar2.jpg" />
             <img class="Responsive" src="img/911Dakar3.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+        <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,7 +168,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
         <article class="noticias">
             <div>
                 <img src="img/ToyotaSUV.jpg" />
@@ -182,7 +182,7 @@
             <img class="Responsive" src="img/Genesis.jpg" />
             <img class="Responsive" src="img/Geko.jpg" />
         </article>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
+        <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1739753120643849"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,7 +192,7 @@
      data-ad-slot="4611681044"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
     <div id="propiedadimagenes">Todas las imágenes son propiedad de sus respectivos dueños</div>
     </section>
     
