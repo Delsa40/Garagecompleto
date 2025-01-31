@@ -32,59 +32,6 @@ header {
     left: 120px;
 }
 
-/* <nav id="lupaBuscador">
-            <label for="buscador"><i class="fa-solid fa-magnifying-glass"></i></label>
-            <input id="buscador" placeholder="Buscar marca" />
-            <ul id="listaBuscador">
-                <a class="a" href="Ford.html"><li class="marcaBuscador">Ford</li></a>
-                <a class="a" href="Lamborghini.html"><li class="marcaBuscador">Lamborghini</li></a>
-                <a class="a" href="Mercedes.html"><li class="marcaBuscador">Mercedes Benz</li></a>
-                <a class="a" href="Ferrari.html"><li class="marcaBuscador">Ferrari</li></a>
-                <a class="a" href="Subaru.html"><li class="marcaBuscador">Subaru</li></a>
-                <a class="a" href="Audi.html"><li class="marcaBuscador">Audi</li></a>
-            </ul>
-        </nav>  */
-
-/* #lupaBuscador {
-    position:absolute;
-    left: 750px;
-}
-
-#buscador {
-    border-radius: 30px;
-}
-
-#buscador:hover {
-    box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3);
-    transition: all 0.3s;
-}
-
-#listaBuscador {
-    position: fixed;
-    display: none;
-    background-color: #fff;
-    left: 770px;
-    padding: 0;
-    margin: 10px 0;
-    width: 180px;
-    list-style: none;
-    cursor: pointer;
-    z-index: 100;
-}
-
-.marcaBuscador {
-    padding: 5px;
-}
-
-.marcaBuscador:hover {
-    background-color: rgb(119, 119, 119);
-}
-
-#listaBuscador a{
-    text-decoration: none;
-    color: black;
-} */
-
 /*----------------------------BODY----------------------------*/
 
 body {
@@ -125,7 +72,7 @@ body {
 .indice:hover {
     background-color: #fff;
     color: black;
-    transition: all 0.3s;
+    transition: all 0.4s ease-in-out;
 }
 
 section h1 {
