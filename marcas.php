@@ -1,7 +1,10 @@
 <?php require('header.php') ?>
-    <section>
-        <h1>Marcas</h1>
-        <h2>Elige una marca</h2>
+
+    <h1>Marcas</h1>
+    <h2>Elige una marca</h2>
+
+    <section id="seccionMarcas">
+        
         <article class="marcas"><a class="linkAMarca" href="AlfaRomeo.php">
             <img src="img/8CCompetizione(2007-2010).jpg" />
             <div>Alfa Romeo</div>

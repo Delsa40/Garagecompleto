@@ -57,6 +57,7 @@ body {
     text-align: center;
     padding: 10px 30px;
     cursor: pointer;
+    transition: all 0.4s ease-in-out;
 }
 
 #botonesIndice a {
@@ -193,14 +194,21 @@ footer {
 
 /*----------------------------MARCAS----------------------------*/
 
+#seccionMarcas{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    justify-items: center;
+    gap: 50px;
+}
+
 .marcas {
     position: relative;
-    display: inline-block;
     width: 300px;
     height: 250px;
-    margin: 50px 70px;
+    
     border-radius: 10px;
     cursor: pointer;
+    transition: all 0.4s;
 }
 
 .marcas:hover {
@@ -275,6 +283,7 @@ footer {
 
 .modelo p a {
     text-decoration: none;
+    transition: all 0.4s ease;
 }
 
 .modelo p a:hover {
@@ -328,6 +337,7 @@ footer {
 #segunda {
     left: 400px;
     z-index: 10;
+    transition: all 0.5s ease;
 }
 
 #tercera {
@@ -362,33 +372,6 @@ footer {
     margin-bottom: 15px;
 }
 
-/* OPCION DE BOTON DE SIGUIENTE EN LA FOTO: */
-
-/* <button id="siguienteFoto"><div><i class="fa-solid fa-arrow-right"></i></div></button> */
-
-/* .segunda.clickeado {
-    left: 16px;
-} 
-
-#siguienteFoto {
-    visibility: hidden;
-    position: absolute;
-    top: 50%;
-    left: 93.7%;
-    width: 40px;
-    height: 40px;
-    border: 0;
-    background-color: rgb(82, 78, 78);
-    color: #fff;
-    cursor: pointer;
-}
-
-#siguienteFoto div {
-    position: absolute;
-    top: 32%;
-    left: 34%;
-} */
-
 /*----------------------------JUEGOS----------------------------*/
 
 #juegos {
@@ -403,6 +386,7 @@ footer {
     margin: 50px 70px;
     border-radius: 10px;
     cursor: pointer;
+    transition: all 0.4s;
 }
 
 .contenedorDeJuego:hover {
@@ -568,9 +552,6 @@ section > p {
     .contenedorDeJuego{
         margin: 50px 50px;
     }
-    .marcas{
-        margin: 50px 5%;
-    }
     #p1{
         display: block;
         position: static;
@@ -697,12 +678,6 @@ section > p {
         width: 98%;
     }
 }
-@media (min-height: 100px) and (max-width:774px){
-    .marcas{
-        margin: 50px 3%;
-        width: 40%;
-    }
-}
 @media (min-height: 100px) and (max-width:730px){
     .indice{
         width: 12.5%;
@@ -721,9 +696,6 @@ section > p {
     .indice{
         width: 12.5%;
         font-size: 12px;
-    }
-    .marcas{
-        height: 200px;
     }
     .politicasycontacto{
         display: block;
@@ -761,9 +733,6 @@ section > p {
     .contenedorDeJuego{
         width: 70%;
         left: 15%;
-    }
-    .marcas{
-        height: 150px;
     }
     .modelo p{
         font-size: 15px;
@@ -809,9 +778,6 @@ section > p {
     .contenedorDeJuego{
         width: 80%;
         left: 10%;
-    }
-    .marcas{
-        height: 100px;
     }
     .modelo p{
         margin: 20px 2%;
