@@ -1,6 +1,6 @@
 <?php require('header.php') ?>
     <section>
-        <h1>Acerca de</h1>
+        <h1 class="titulo">Acerca de</h1>
         <p>
             En Garagecompleto encontrarás información, juegos y novedades de autos, camionetas y motos.
             No importa si son deportivos, lentos o feos, en un garage completo hay de todo.

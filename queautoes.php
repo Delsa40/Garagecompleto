@@ -1,7 +1,7 @@
 <?php require('header.php') ?>
     <section>
-        <h1>¿Qué auto es?</h1>
-        <h2>Toca la foto o pasa el cursor por encima para ver la respuesta correcta:</h2>
+        <h1 class="titulo">¿Qué auto es?</h1>
+        <h2 class="subtitulo">Toca la foto o pasa el cursor por encima para ver la respuesta correcta:</h2>
         <article class="quiz">
             <img src="img/Q306.png"/>
             <div class="opciones">

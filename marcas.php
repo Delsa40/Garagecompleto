@@ -1,9 +1,9 @@
 <?php require('header.php') ?>
 
-    <h1>Marcas</h1>
-    <h2>Elige una marca</h2>
+    <h1 class="titulo">Marcas</h1>
+    <h2 class="subtitulo">Elige una marca</h2>
 
-    <section id="seccionMarcas">
+    <section id="seccionMarcasYJuegos">
         
         <article class="marcas"><a class="linkAMarca" href="AlfaRomeo.php">
             <img src="img/8CCompetizione(2007-2010).jpg" />

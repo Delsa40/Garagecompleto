@@ -1,8 +1,8 @@
 <?php require('header.php') ?>
     <section>
-        <h1>Impostor</h1>
-        <h2>Hay uno que no es de la misma marca que los demás.</h2>
-        <h2>Toca la foto o pasa el cursor por encima para ver la respuesta correcta:</h2>
+        <h1 class="titulo">Impostor</h1>
+        <h2 class="subtitulo">Hay uno que no es de la misma marca que los demás.</h2>
+        <h2 class="subtitulo">Toca la foto o pasa el cursor por encima para ver la respuesta correcta:</h2>
         <article class="quizImpostor">
             <img src="img/IChevrolet2.png"/>
             <div class="respuestaImpostor" >

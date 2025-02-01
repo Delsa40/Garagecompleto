@@ -1,7 +1,7 @@
 <?php require('header.php') ?>
     <section class="sectionMarca">
         <h1 class="nombreMarca">RAREZAS</h1>
-        <h2 id="textoRarezas">En ésta sección encontrarás marcas y modelos tan raros y desconocidos que no pueden tener un apartado propio.
+        <h2 class="subtitulo">En ésta sección encontrarás marcas y modelos tan raros y desconocidos que no pueden tener un apartado propio.
             Al ser tan raros, puede ser que las fotos no sean las mejores, pero sus historias siguen siendo interesantes.
         </h2>
         <article class="modelo">
