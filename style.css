@@ -105,12 +105,9 @@ body {
 
 .Responsive{
     display: none;
-    padding: 1.5%;
-    width: 30%;
 }
 
 .parrafoNoticia {
-    text-align: justify;
     padding: 1rem;
     padding-top: 0;
     margin: 0;
@@ -345,13 +342,12 @@ footer {
     padding: 1rem 1rem;
     margin: 0;
     height: 290px;
-    min-width: 400px;
+    min-width: 350px;
     z-index: 20;
     background-color: #fff;
 }
 
 #p2 {
-    text-align: justify;
     font-size: 20px;
     display: block;
     line-height: 25px;
@@ -409,7 +405,6 @@ footer {
 /*----------------------------ACERCA DE----------------------------*/
 
 section > p {
-    text-align: justify;
     font-size: 20px;
     line-height: 25px;
     padding: 1rem;
@@ -597,18 +592,13 @@ section > p {
         min-height: 290px;
     }
     #contenedorDeFoto{
-        min-height: 1200px;
+        width: 97%;
+        padding: 0;
     }
     #contenedorDeFoto img{
-        padding: 1%;
-        width: 96%;
-    }
-    #segunda{
-        left: 1%;
-        top: 630px;
-    }
-    #contenedorDeFoto:hover #segunda{
-        left: 1%;
+        position: static;
+        display: block;
+        padding: 1.5%;
     }
     .nombreModelo{
         font-size: 35px;
