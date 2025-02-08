@@ -91,10 +91,16 @@ body {
     box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3);
 }
 
+.noticias div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .noticias div img {
     padding: 1.5%;
     width: 30%;
-    height: 300px;
+    aspect-ratio: 300/300;
 }
 
 .Responsive{
@@ -149,15 +155,15 @@ footer {
 #instagram {
     font-size: 30px;
     text-decoration: none;
-    color: cyan;
+    color: #fff;
 }
 
 #instagram:visited {
-    color: cyan;
+    color: #fff;
 }
 
 #instagram:hover {
-    color: #fff;
+    color: cyan;
 }
 
 #instagram:active {
@@ -166,15 +172,15 @@ footer {
 
 .politicasycontacto {
     text-decoration: none;
-    color: cyan;
+    color: #fff;
 }
 
 .politicasycontacto:visited {
-    color: cyan;
+    color: #fff;
 }
 
 .politicasycontacto:hover {
-    color: #fff;
+    color: cyan;
 }
 
 .politicasycontacto:active {
@@ -280,7 +286,7 @@ footer {
 .nombreModelo {
     text-align: center;
     font-size: 50px;
-    padding: 10px;
+    padding: 20px;
 }
 
 .fotosDe {
@@ -306,7 +312,7 @@ footer {
     display: inline-block;
     padding: 1rem;
     width: 320px;
-    height: 270px;
+    aspect-ratio: 320/270;
 }
 
 #contenedorDeFoto img {
@@ -411,12 +417,17 @@ section > p {
 
 /*----------------------------¿QUE AUTO ES?----------------------------*/
 
+.seccionQuiz{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    justify-items: center;
+    gap: 50px;
+}
+
 .quiz {
     position: relative;
-    display: inline-block;
     width: 300px;
     height: 500px;
-    margin: 50px 70px;
     border: 2px dashed gray;
 }
 
@@ -473,10 +484,8 @@ section > p {
 
 .quizImpostor {
     position: relative;
-    display: inline-block;
     width: 300px;
     height: 500px;
-    margin: 50px 70px;
     border: 2px dashed gray;
 }
 
@@ -519,36 +528,6 @@ section > p {
 }
 /*----------------------------RESPONSIVE----------------------------*/
 
-@media (min-height: 100px) and (max-width:910px){
-    .noticias div img {
-        height: 300px;
-    }
-    .quiz{
-        margin: 50px 50px;
-    }
-    .quizImpostor{
-        margin: 50px 50px;
-    }
-    .contenedorDeJuego{
-        margin: 50px 50px;
-    }
-    #p1{
-        display: block;
-        position: static;
-        margin-top: 15px;
-        min-width: 100px;
-        min-height: 290px;
-    }
-    #contenedorDeFoto{
-        width: 40%;
-    }
-    #contenedorDeFoto:hover #segunda{
-        left: 400px;
-    }
-    #tercera{
-        left:30%;
-    }
-}
 @media (min-height: 100px) and (max-width:830px){
     header{
         min-height: 40px;
@@ -564,9 +543,6 @@ section > p {
     }
     #botonesIndice a{
         font-size: 20px;
-    }
-    .noticias{
-        min-height: 600px;
     }
     .noticias div img{
         padding: 1.5%;
@@ -598,25 +574,7 @@ section > p {
         text-align: left;
         margin: 25px 0;
     }
-    /* Juegos */
-    .quiz{
-        display:block;
-        margin: 50px 0;
-        width: 50%;
-        left: 25%;
-    }
-    .quizImpostor{
-        display:block;
-        margin: 50px 0;
-        width: 50%;
-        left: 25%;
-    }
-    .contenedorDeJuego{
-        display:block;
-        margin: 50px 0;
-        width: 50%;
-        left: 25%;
-    }
+
 }
 @media (min-height: 100px) and (max-width:827px){
     .indice{
@@ -626,21 +584,24 @@ section > p {
         margin: 0;
         width: 99%;
     }
-    #tercera{
-        left:27%;
-    }
 }
 @media (min-height: 100px) and (max-width:800px){
     .indice{
         height: 25px;
     }
+    #p1{
+        display: block;
+        position: static;
+        margin-top: 15px;
+        min-width: 100px;
+        min-height: 290px;
+    }
     #contenedorDeFoto{
-        padding: 1%;
-        width: 96%;
         min-height: 1200px;
     }
     #contenedorDeFoto img{
-        height: 50%;
+        padding: 1%;
+        width: 96%;
     }
     #segunda{
         left: 1%;
@@ -664,14 +625,7 @@ section > p {
         font-size: 16px;
     }
 }
-@media (min-height: 100px) and (max-width:620px){
-    #contenedorDeFoto{
-        min-height: 1000px;
-    }
-    #segunda{
-        top: 520px;
-    }
-}
+
 @media (min-height: 100px) and (max-width:590px){
     .indice{
         width: 12.5%;
@@ -681,14 +635,7 @@ section > p {
         display: block;
     }
 }
-@media (min-height: 100px) and (max-width:520px){
-    #contenedorDeFoto{
-        min-height: 800px;
-    }
-    #segunda{
-        top: 420px;
-    }
-}
+
 @media (min-height: 100px) and (max-width:500px){
     header{
         min-height: 20px;
@@ -701,18 +648,6 @@ section > p {
     }
     .indice{
         padding: 2% 6%;
-    }
-    .quiz{
-        width: 70%;
-        left: 15%;
-    }
-    .quizImpostor{
-        width: 70%;
-        left: 15%;
-    }
-    .contenedorDeJuego{
-        width: 70%;
-        left: 15%;
     }
     .modelo p{
         font-size: 15px;
@@ -733,12 +668,6 @@ section > p {
     .nombreMarca{
         font-size: 25px;
     }
-    #contenedorDeFoto{
-        min-height: 600px;
-    }
-    #segunda{
-        top: 320px;
-    }
 }
 @media (min-height: 100px) and (max-width:350px){ 
     #garagecompleto{
@@ -747,36 +676,13 @@ section > p {
     section h1 {
         font-size: 35px;
     }
-    .quiz{
-        width: 80%;
-        left: 10%;
-    }
-    .quizImpostor{
-        width: 80%;
-        left: 10%;
-    }
-    .contenedorDeJuego{
-        width: 80%;
-        left: 10%;
-    }
     .modelo p{
         margin: 20px 2%;
     }
-    #contenedorDeFoto{
-        min-height: 500px;
-    }
-    #segunda{
-        top: 270px;
-    }
+    
 }
 @media (min-height: 100px) and (max-width:280px){
     #logo{
         width: 30%;
-    }
-    #contenedorDeFoto{
-        min-height: 400px;
-    }
-    #segunda{
-        top: 220px;
     }
 }

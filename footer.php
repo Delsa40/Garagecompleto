@@ -2,7 +2,7 @@
 
     <footer>
         <div>
-            <a id="instagram" href="https://www.instagram.com/garagecompleto/">
+            <a id="instagram" href="https://www.instagram.com/garagecompleto/" target="_blank">
                 <i class="fa-brands fa-instagram"></i>
             </a>
         </div>
