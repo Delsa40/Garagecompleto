@@ -6,6 +6,7 @@
     <link rel="shortcut icon" href="img/Logo.jpg"/>
     <script src="https://kit.fontawesome.com/9a459af5fb.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="En Garagecompleto encuentras información, juegos y novedades sobre autos, camionetas y motos. Desde deportivos hasta rarezas, explora fichas técnicas, fotos exclusivas y pruebas de conocimiento. ¡Mantente al día con las últimas noticias y descubre vehículos únicos!" />
 </head>
 <body>
     <header id="comienzo">
